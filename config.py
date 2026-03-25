@@ -1,7 +1,7 @@
 import os
 
 # Groq API Key
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 
 # 监控的AI新闻源
 RSS_FEEDS = [
