@@ -73,7 +73,11 @@ This ruling changes everything for AI companies...
 
 #AI #Anthropic #TechPolicy
 ```
+## 🌐 实际运营
 
+本项目已投入实际使用，每日自动生成内容并发布到 X（Twitter）：
+
+👉 [@DougouBo0905](https://twitter.com/DougouBo0905)
 ## 🔮 后续规划
 
 - [ ] 接入 Twitter/X API 自动发布
