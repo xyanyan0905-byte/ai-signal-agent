@@ -1,0 +1,80 @@
+AI Signal Agent - 2026-03-25
+==================================================
+
+【新闻 1】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app
+摘要：Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.
+链接：https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/
+----------------------------------------
+
+【新闻 2】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：Meta launches new initiative to support entrepreneurship, drive AI adoption
+摘要：Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.
+链接：https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/
+----------------------------------------
+
+【新闻 3】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：Meta turns to AI to make shopping easier on Instagram and Facebook
+摘要：Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.
+链接：https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
+----------------------------------------
+
+【新闻 4】
+来源：AI News
+标题：Ocorian: Family offices turn to AI for financial data insights
+摘要：<p>To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.3
+链接：https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/
+----------------------------------------
+
+【新闻 5】
+来源：AI News
+标题：AI agents enter banking roles at Bank of America
+摘要：<p>AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 fin
+链接：https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/
+----------------------------------------
+
+【新闻 6】
+来源：Cointelegraph.com News
+标题：Decentralized crowdfunding can boost artists during market downturn
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Decentralized crowdfunding can boost artists during market downturn" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWUtNzczNC03M2E0
+链接：https://cointelegraph.com/news/decentralized-crowdfunding-artists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 7】
+来源：Cointelegraph.com News
+标题：Here’s what happened in crypto today
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Here’s what happened in crypto today" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw=
+链接：https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 8】
+来源：Cointelegraph.com News
+标题：Bitpanda targets banks with Vision Chain tokenization platform
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Bitpanda targets banks with Vision Chain tokenization platform" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1NGItOTMxYy03YjNmLWEzM
+链接：https://cointelegraph.com/news/bitpanda-announces-vision-chain-europe-tokenization-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 9】
+来源：Decrypt
+标题：UK Imposes Moratorium on Political Donations in Cryptocurrency
+摘要：Prime Minister Keir Starmer announced an immediate freeze on crypto donations to political parties, following the independent Rycroft review.
+链接：https://decrypt.co/362319/uk-imposes-moratorium-on-political-donations-in-cryptocurrency
+----------------------------------------
+
+【新闻 10】
+来源：Decrypt
+标题：Cipher Digital Stock Pops as Firm Bolsters Shift From Bitcoin Mining With 15-Year Data Center Deal
+摘要：Cipher Digital revealed a 15-year lease deal and a $200 million revolving credit facility, continuing its shift away from Bitcoin mining.
+链接：https://decrypt.co/362315/cipher-digital-stock-pops-shift-bitcoin-mining-data-center-deal
+----------------------------------------
+
+【新闻 11】
+来源：Decrypt
+标题：President Trump Names Meta, Nvidia CEOs to White House Tech and Science Council
+摘要：Mark Zuckerberg, Jensen Huang, and other tech leaders will advise President Trump on emerging technology policy.
+链接：https://decrypt.co/362313/trump-names-meta-nvidia-ceos-white-house-tech-science-council
+----------------------------------------
+

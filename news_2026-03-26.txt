@@ -1,0 +1,73 @@
+AI Signal Agent - 2026-03-26
+==================================================
+
+【新闻 1】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：The least surprising chapter of the Manus story is what’s happening right now
+摘要：Did anyone think there would not be a reckoning over this tie-up?
+链接：https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/
+----------------------------------------
+
+【新闻 2】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：Mercor competitor Deccan AI raises $25M, sources experts from India
+摘要：Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.
+链接：https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/
+----------------------------------------
+
+【新闻 3】
+来源：AI News & Artificial Intelligence | TechCrunch
+标题：The AI skills gap is here, says AI company, and power users are pulling ahead
+摘要：Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.
+链接：https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/
+----------------------------------------
+
+【新闻 4】
+来源：AI News
+标题：RPA matters, but AI changes how automation works
+摘要：<p>RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. 
+链接：https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/
+----------------------------------------
+
+【新闻 5】
+来源：Cointelegraph.com News
+标题：Fenbushi co-founder offers bounty to recover $42M lost in 2022 hack
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Fenbushi co-founder offers bounty to recover $42M lost in 2022 hack" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIwNDEtYzJjZS03Yzcz
+链接：https://cointelegraph.com/news/fenbushi-co-founder-offers-bounty-to-recover-42m-lost-in-2022-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 6】
+来源：Cointelegraph.com News
+标题：UK pushes ahead with temporary ban on political crypto donations
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="UK pushes ahead with temporary ban on political crypto donations" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzk3MTUtNmFkZi03ZGRkLTl
+链接：https://cointelegraph.com/news/uk-forges-ahead-political-crypto-donations-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 7】
+来源：Cointelegraph.com News
+标题：Coinbase opposes stablecoin compromise in Senate crypto bill: Report
+摘要：<p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img alt="Coinbase opposes stablecoin compromise in Senate crypto bill: Report" class="type:primaryImage" src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmFmZGUtNzY5MC03YzJ
+链接：https://cointelegraph.com/news/coinbase-opposes-latest-crypto-bill-stablecoin-compromise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+
+【新闻 8】
+来源：Decrypt
+标题：US Congressman Moves to Ban Staff From Trading on Prediction Markets
+摘要：Congress is moving to tighten oversight of prediction markets amid rising concerns over insider trading and misuse of sensitive information.
+链接：https://decrypt.co/362413/us-congressman-ban-staff-trading-prediction-markets
+----------------------------------------
+
+【新闻 9】
+来源：Decrypt
+标题：Nvidia to Face Class Action Lawsuit Over Alleged Crypto Mining Revenue Gaps
+摘要：The chipmaker failed to rebut claims its crypto disclosures affected its stock price, allowing the case to move forward.
+链接：https://decrypt.co/362410/nvidia-class-action-lawsuit-alleged-crypto-mining-revenue-gaps
+----------------------------------------
+
+【新闻 10】
+来源：Decrypt
+标题：Crypto Case Over Money Transmitter Laws Dismissed by US Judge
+摘要：The decision leaves unresolved whether developers of non-custodial crypto tools must comply with federal money-transmission rules.
+链接：https://decrypt.co/362408/crypto-money-transmitter-laws-dismissed-us-judge
+----------------------------------------
+

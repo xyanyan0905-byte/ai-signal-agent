@@ -1,69 +1,68 @@
+# -*- coding: utf-8 -*-
 from groq import Groq
-from config import GROQ_API_KEY
 
-client = Groq(api_key=GROQ_API_KEY)
+client = Groq(api_key="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")
 
 def score_and_filter(articles):
-    """给新闻打分，只保留高价值内容"""
     scored = []
-    
     for article in articles:
-        prompt = f"""你是一个AI行业分析师。
-给以下新闻打重要性评分（1-10分）：
-- 9-10分：重大突破，行业级影响
-- 7-8分：重要进展，值得关注
-- 5-6分：一般资讯
-- 1-4分：低价值噪音
-
-只返回一个数字，不要其他内容。
-
-新闻标题：{article['title']}
-新闻摘要：{article['summary']}
-"""
+        prompt = f"""给以下新闻打重要性评分（1-10分），只返回一个数字，不要其他内容：
+标题：{article['title']}
+摘要：{article['summary']}"""
         try:
             response = client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
-                messages=[{"role": "user", "content": prompt}]
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=5
             )
             score = int(response.choices[0].message.content.strip())
             article['score'] = score
             if score >= 7:
                 scored.append(article)
-                print(f"⭐ 评分{score}分: {article['title'][:50]}")
+                print(f"评分{score}分: {article['title'][:50]}")
         except Exception as e:
-            print(f"❌ 评分失败: {e}")
-    
+            print(f"评分失败: {e}")
     return sorted(scored, key=lambda x: x['score'], reverse=True)
 
 def generate_tweet(article):
-    """生成有观点的推文"""
-    prompt = f"""你是一个AI行业KOL，拥有独特观点和洞察力。
-基于以下新闻，生成一条英文推文：
+    prompt = f"""你是一个AI/Web3领域的中文KOL，风格犀利有观点，粉丝是创业者和投资人。
 
-要求：
-1. 不只是总结，要有自己的观点和判断
-2. 指出这件事对普通人/开发者/行业的影响
-3. 语气犀利、有洞察力
-4. 长度控制在200字以内
-5. 结尾加1-2个相关hashtag
+基于以下新闻生成推文，严格按照格式输出：
+
+【中文推文】
+第一行：一句让人停下来的hook（不超过20字）
+空行
+核心观点：解释为什么重要（2-3句，要有数据或具体细节）
+空行
+影响分析：对谁有影响？（1-2句）
+空行
+行动建议：读者现在可以做什么（1句）
+空行
+#hashtag1 #hashtag2 #hashtag3
+
+【英文推文】
+Hook line (max 15 words)
+
+Core insight with data (2-3 sentences)
+
+Impact + action (1-2 sentences)
+
+#hashtag1 #hashtag2 #hashtag3
 
 新闻标题：{article['title']}
-新闻摘要：{article['summary']}
-"""
-    
+新闻摘要：{article['summary']}"""
+
     response = client.chat.completions.create(
         model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=800
     )
-    
     return response.choices[0].message.content
 
 def generate_all_tweets(articles):
-    """生成所有推文"""
     tweets = []
-    
-    for article in articles[:5]:  # 每次最多生成5条
-        print(f"\n🐦 生成推文: {article['title'][:50]}")
+    for article in articles[:5]:
+        print(f"生成推文: {article['title'][:50]}")
         tweet = generate_tweet(article)
         tweets.append({
             "score": article['score'],
@@ -72,5 +71,4 @@ def generate_all_tweets(articles):
             "tweet": tweet,
             "link": article['link']
         })
-    
     return tweets
