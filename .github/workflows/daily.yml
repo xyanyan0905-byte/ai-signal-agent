@@ -2,17 +2,17 @@ name: Daily AI Signal Agent
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 北京时间每天早上9点
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 1 * * *'
+  workflow_dispatch:
 
 jobs:
   run-agent:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: 设置Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add tweets_*.txt
+          git add tweets_*.txt news_*.txt
           git diff --staged --quiet || git commit -m "auto: daily tweets $(date +%Y-%m-%d)"
           git push
