@@ -1,0 +1,33 @@
+name: Daily AI Signal Agent
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 北京时间每天早上9点
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: 设置Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install feedparser requests python-dotenv groq
+
+      - name: 运行Agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      - name: 保存推文到仓库
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add tweets_*.txt
+          git diff --staged --quiet || git commit -m "auto: daily tweets $(date +%Y-%m-%d)"
+          git push
