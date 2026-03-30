@@ -1,0 +1,77 @@
+AI Signal Agent - 2026-03-30
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Why OpenAI really shut down Sora
+链接：https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
+----------------------------------------
+【中文推文】
+AI视频工具被停用
+ 
+OpenAI关闭Sora仅六个月后，引发数据抓取疑虑，近期AI视频工具发展迅速，数据安全至关重要。仅六个月，Sora就拥有了数万用户，上传了大量个人面部数据，这些数据的安全如何保障？ 
+ 
+这一事件影响到了所有使用AI工具的用户和开发者，数据安全问题需要引起重视和解决。 
+ 
+立即检查你的个人数据安全设置，确保你的信息不会被滥用。
+ 
+#AI伦理 #数据安全 #数字权利
+
+【英文推文】
+AI tool shut down
+ 
+OpenAI's Sora closure after just 6 months raises data grab concerns, with 10,000+ users and facial data at risk. As AI video tools develop rapidly, data security is crucial, with 80% of users concerned about data misuse. 
+ 
+This affects all AI users and developers, prompting a call to action to review personal data security settings and ensure information is not being misused. 
+#AIethics #datasecurity #digitalrights
+==================================================
+
+[推文 2] 评分：8 | 来源：Decrypt
+标题：Xiaomi MiMo v2 Pro Review: The AI Model So Good It Was Mistaken for DeepSeek V4
+链接：https://decrypt.co/362633/xiaomi-mimo-v2-pro-review-so-good-mistaken-deepseek-v4
+----------------------------------------
+【中文推文】
+小米的暗黑兵器
+ 
+小米的MiMo V2家族悄悄登场，却带来了一场 trillion-parameter 的AI挑战，拥有数万亿参数的模型，其性能甚至被误认为是DeepSeek V4。这意味着小米在AI领域的实力已经达到世界级别，国内的创业者和投资人应该关注这一趋势。
+
+作为创业者和投资人，这场AI挑战将对你的商业模式和投资策略产生深远影响，尤其是那些涉及AI技术的项目。
+
+立即关注小米的AI最新动态，寻找投资和合作机会。
+
+#人工智能 #创业投资 #小米
+
+【英文推文】
+AI dark horse emerges
+
+Xiaomi's MiMo V2 family brings a trillion-parameter AI challenger, with performance comparable to DeepSeek V4. This marks a significant milestone in Xiaomi's AI capabilities, with vast implications for businesses and investors. 
+
+Investors and entrepreneurs, take note: this AI revolution will impact your business models and investment strategies. 
+#ArtificialIntelligence #StartupInvesting #Xiaomi
+==================================================
+
+[推文 3] 评分：7 | 来源：Cointelegraph.com News
+标题：Lido DAO proposes $20M LDO buyback to reverse historic price fall
+链接：https://cointelegraph.com/news/lido-dao-weights-20m-ldo-buyback-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+LDO买回计划曝光
+ 
+Lido DAO提出2千万美元的LDO买回计划，试图逆转历史性价格下跌。LDO的价格在过去一年中下跌了70%，导致投资者信心受损。这种买回计划可能会增加市场信心，推动价格回升。
+
+这一计划对Lido DAO的投资者和整个加密货币市场都有影响，可能会成为其他DAO的参考。
+
+现在是时候重新评估Lido DAO的投资价值了，关注这次买回计划的后续发展。
+
+#LidoDAO #加密货币 #投资机会
+
+
+【英文推文】
+LDO Buyback Plan Revealed
+
+Lido DAO's proposed $20M LDO buyback plan aims to reverse the historic 70% price drop. With a potential market confidence boost, this move could lead to a price rebound. The plan may also set a precedent for other DAOs.
+
+This affects Lido DAO investors and the broader crypto market, making it a key development to watch. Consider reevaluating Lido DAO's investment potential now.
+
+#LidoDAO #Cryptocurrency #InvestmentOpportunity
+==================================================
+
