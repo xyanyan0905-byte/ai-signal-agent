@@ -1,8 +1,11 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import os
 
 # Gemini API Key
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyAxldFltoBL3-jra2s6jHV_0X-_i2DH-54")
-
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 # 监控的AI新闻源
 RSS_FEEDS = [
     "https://venturebeat.com/category/ai/feed/",

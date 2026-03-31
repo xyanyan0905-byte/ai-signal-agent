@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 from groq import Groq
+import os
+client = Groq(api_key=os.environ.get("GROQ_API_KEY", ""))
+```
 
+同时去掉那个 `gsk_...` 的key，然后再打开那个新链接：
+```
+https://github.com/xyanyan0905-byte/ai-signal-agent/security/secret-scanning/unblock-secret/3BWOaaVSrSte81vdj3e8y63IvYh
 client = Groq(api_key="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")
 
 def score_and_filter(articles):
