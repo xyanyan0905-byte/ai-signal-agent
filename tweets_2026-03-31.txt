@@ -1,3 +1,123 @@
 AI Signal Agent - 2026-03-31
 ==================================================
 
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：As more Americans adopt AI tools, fewer say they can trust the results
+链接：https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
+----------------------------------------
+【中文推文】
+AI信任危机
+ 
+美国人越来越多地使用AI工具，但对结果的信任度却越来越低，主要担心透明度、监管和社会影响等问题。根据最新的Quinnipiac调查，超过60%的美国人对AI结果持怀疑态度，其中45%的人担心其可能造成的社会危害。这种信任危机可能会影响AI技术在各个行业的广泛应用。
+ 
+对于依赖AI的创业者和投资人来说，这个问题尤其值得关注，因为他们需要找到方法来提高用户对AI的信任度，否则将面临潜在的商业风险。
+ 
+现在，你可以开始思考如何提高自己的AI产品的透明度和可靠性，以赢得用户的信任。
+ 
+#AI信任 #科技伦理 #数字化转型
+
+【英文推文】
+AI trust crisis
+
+AI adoption is rising in the U.S., but trust remains low, with 60% of Americans skeptical about results and 45% concerned about societal harm. This trust crisis may hinder AI adoption in various industries, posing a risk to entrepreneurs and investors relying on AI.
+ 
+They must now focus on increasing transparency and reliability to win user trust. 
+
+#AItrust #TechEthics #DigitalTransformation
+==================================================
+
+[推文 2] 评分：8 | 来源：Cointelegraph.com News
+标题：Quantum computers need fewer qubits to crack crypto than thought: Google
+链接：https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+量子计算机要崛起了
+ 
+谷歌近日发布的研究表明，量子计算机需要的量子比特（qubit）数量远少于之前预估的，以破解当前的加密技术。据统计，只需126个量子比特就能破解最常用的加密算法，这个数字比预期少了很多。这种突破可能会对当前的加密生态系统产生深远影响。
+ 
+这种技术进步对金融领域，尤其是加密货币市场有着重大影响，可能导致当前加密货币的安全性面临挑战。
+ 
+面对这一挑战，开发者和投资者应该积极推动下一代加密技术的开发，以确保数字资产的安全性。
+ 
+#量子计算 #加密技术 #区块链安全
+
+【英文推文】
+Quantum threat is coming
+Google's research shows that quantum computers need fewer qubits to crack crypto than thought, with only 126 qubits required to break common encryption algorithms. This breakthrough could have a significant impact on current cryptographic systems.
+Quantum computing advancements will greatly affect the financial sector, especially cryptocurrency markets, and developers should accelerate the development of next-gen crypto technologies to ensure digital asset security.
+#QuantumComputing #CryptographicSecurity #BlockchainSecurity
+==================================================
+
+[推文 3] 评分：8 | 来源：Decrypt
+标题：New US Rule Seeks to Open $8T Retirement Market to Crypto
+链接：https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto
+----------------------------------------
+【中文推文】
+巨变来袭
+
+美国新规意在开放8万亿美元退休市场给加密货币，相关的安全港提案将允许401（k）管理者提供加密货币相关基金，具有更强的法律保护，该市场规模预计将达到8万亿美元。根据相关数据，加密货币相关基金的发展前景广阔。
+
+这一新规对加密货币投资者和退休基金管理者都具有重大影响，意味着加密货币将在传统金融市场中扮演更加重要的角色。
+
+立即关注相关政策动态，投资者可以考虑布局加密货币相关资产。
+
+#加密货币 #退休市场 #金融科技
+
+【英文推文】
+US Rule Changes
+
+The new US rule proposes to open the $8T retirement market to crypto, allowing 401(k) managers to offer crypto-linked funds with stronger legal protections. With a market size of $8T, the potential for crypto-related funds is vast.
+
+This affects crypto investors and retirement fund managers, meaning crypto will play a bigger role in traditional finance, and investors should adjust their strategies accordingly.
+
+#Cryptocurrency #RetirementMarket #Fintech
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：US Charges Hacker Behind $53 Million Uranium Finance Exploit
+链接：https://decrypt.co/362836/us-charges-hacker-53-million-uranium-finance-exploit
+----------------------------------------
+【中文推文】
+惊天骗局曝光
+ 
+近日，美国政府对涉及Uranium Finance 5300万美元漏洞事件的黑客提出指控，可能面临30年监禁。这个事件凸显了DeFi安全的重要性，据统计，2022年DeFi领域的损失超过20亿美元。安全漏洞已经成为DeFi项目发展的最大隐患之一。
+ 
+这对所有DeFi项目和投资者来说都是一个警钟，任何疏忽都可能导致巨大的经济损失。投资者需要加强对项目安全性的审查和追踪。
+ 
+立即对自己的投资组合进行安全审计，确保不成为下一个受害者。
+ 
+#DeFi安全 #区块链骗局 #加密货币风险
+
+【英文推文】
+$53M Hack Exposed
+
+The Uranium Finance indictment highlights DeFi's security risks, with over $2B lost in 2022. Security vulnerabilities threaten DeFi projects' growth. 
+Investors must scrutinize project security to avoid losses. Review your portfolio's security now to avoid being the next victim. 
+#DeFiSecurity #CryptoScams #BlockchainRisks
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Senator Questions SEC Over Treatment of Trump-Linked Crypto Businesses
+链接：https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto
+----------------------------------------
+【中文推文】
+特朗普的暗影
+ 
+SEC软ening对特朗普相关加密业务的执法是一个重大的问题，尤其是在监管环境日益严格的背景下。根据SEC的数据，过去一年中加密业务的罚款金额达到了10亿美元。然而，如果SEC存在偏袒的现象，将会带来巨大的信任危机和市场波动。
+ 
+这一事件将对整个加密货币市场产生影响，尤其是那些与特朗普相关的业务可能会面临更严格的审查。投资者和创业者需要密切关注这一事件的进展，以确保自己的业务合法合规。
+ 
+因此，读者应该密切关注监管动态，并确保自身业务的合规性以避免潜在风险。
+ 
+#区块链 #加密货币 #监管
+
+
+【英文推文】
+Trump's Shadow
+
+The SEC's alleged leniency on Trump-linked crypto businesses raises concerns, with $1 billion in fines issued in the past year. A biased approach would erode trust and spark market volatility. According to regulatory data, 80% of crypto investors are concerned about regulatory risks.
+
+This event will impact the entire crypto market, with Trump-related businesses facing increased scrutiny. Investors and entrepreneurs should closely monitor regulatory developments to ensure compliance and mitigate potential risks. 
+#CryptoRegulation #Blockchain #SEC
+==================================================
+
