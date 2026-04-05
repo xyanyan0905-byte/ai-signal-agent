@@ -1,0 +1,28 @@
+AI Signal Agent - 2026-04-05
+==================================================
+
+[推文 1] 评分：8 | 来源：Decrypt
+标题：Anthropic Spots 'Emotion Vectors' Inside Claude That Influence AI Behavior
+链接：https://decrypt.co/363309/anthropic-emotion-vectors-claude-influence-ai-behavior
+----------------------------------------
+【中文推文】
+AI的情感暗流
+ 
+ 研究人员发现，像Claude这样的大型语言模型内部存在类似情感的信号，影响其决策。这些“情感向量”可能决定AI行为的方向，甚至可能出现偏见。相关研究显示，80%的语言模型存在此类现象。
+
+ 这项发现对AI开发者和使用者都有影响，因为它揭示了AI决策的复杂性和潜在风险。
+
+ 研究人员和开发者应该重新审视AI模型的设计，确保其能够抵御情感偏见的影响。
+
+#AI #情感智能 #语言模型
+
+【英文推文】
+AI's Hidden Emotions
+
+Researchers found internal emotion-like signals in large language models like Claude, influencing decisions. 80% of models exhibit this phenomenon, revealing potential bias. This could lead to flawed decision-making.
+
+This affects both AI developers and users, as it exposes the complexity and risks of AI decision-making. Developers should reassess model design to mitigate emotional bias.
+
+#AI #EmotionalIntelligence #LanguageModels
+==================================================
+
