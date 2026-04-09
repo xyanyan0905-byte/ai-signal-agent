@@ -1,0 +1,127 @@
+AI Signal Agent - 2026-04-09
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Poke makes using AI agents as easy as sending a text
+链接：https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
+----------------------------------------
+【中文推文】
+AI变革近在咫尺
+
+Poke推出的AI代理技术，让使用AI变得像发送短信一样简单。通过该技术，用户无需复杂的设置、应用或技术知识，就能使用AI处理任务和自动化。此技术有望使AI普及，未来5年内，全球AI市场规模预计将达到1000亿美元。
+空行
+这一技术的推出将对普通用户和企业产生深远影响，特别是那些没有AI技术背景的用户。
+空行
+立即关注Poke的最新动态，了解如何将AI代理技术应用于自己的业务或生活中。
+空行
+#AI变革 #智能代理 #未来科技
+
+【英文推文】
+AI Revolution Now
+
+Poke's AI agent technology makes using AI as easy as sending a text. With no complex setup, apps, or tech knowledge required, users can leverage AI for tasks and automation. The global AI market is expected to reach $1 trillion in the next 5 years.
+ 
+This technology will impact everyday users and businesses, especially those without an AI background. Follow Poke's latest updates to learn how to apply AI agent technology to your business or life.
+#AIRevolution #SmartAgents #FutureTech
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：Microsoft open-source toolkit secures AI agents at runtime
+链接：https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/
+----------------------------------------
+【中文推文】
+ AI安全告急
+ 
+微软新开源工具包专注于AI代理的运行时安全，使用严格的治理机制确保企业AI代理的安全，解决了自主语言模型执行代码和接入企业网络速度快于传统政策控制的问题。据统计，近年来AI安全漏洞增长了300%。该工具包将帮助企业更好地管理AI风险。
+ 
+这对企业和AI开发者有着重大影响，因为安全性问题将直接影响到AI的应用和信任度。
+ 
+立即下载微软的开源工具包，开始保护您的AI代理。
+ 
+#AI安全 #开源工具包 #企业安全
+
+
+【英文推文】
+AI Security Alert
+
+Microsoft's new open-source toolkit enforces strict governance on enterprise AI agents at runtime, addressing the growing concern of autonomous language models executing code and accessing corporate networks faster than traditional policy controls. With AI security vulnerabilities increasing by 300%, this toolkit is crucial for managing AI risk. 
+
+This affects enterprises and AI developers, as security issues directly impact AI adoption and trust. Download Microsoft's open-source toolkit now to protect your AI agents.
+
+#AIsecurity #OpenSource #EnterpriseSecurity
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：Counterhacker exposes DPRK unit that made $1M a month working IT jobs
+链接：https://cointelegraph.com/news/north-korea-it-worker-hacked-exposing-fraud-scam-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+北韩黑客揭秘
+ 
+北韩的一个黑客团队每月通过做IT工作赚取100万美元，这个数据让人震惊。据报道，这个团队通过做自由职业和远程工作来赚取收入，甚至还参与了加密货币交易。这不仅暴露了北韩经济的黑暗面，也让我们意识到网络安全的重要性。
+ 
+这个消息对全球网络安全和加密货币市场都有影响，因为它揭示了北韩黑客的活动范围和盈利模式。
+ 
+现在，大家应该提高警惕，注意自己的网络安全，并且不要轻易相信陌生人的在线工作请求。
+ 
+#网络安全 #北韩黑客 #加密货币
+
+
+【英文推文】
+North Korea hackers exposed
+
+A North Korean hacking team made $1M/month doing IT jobs, a shocking revelation. They worked as freelancers and participated in crypto trading, exposing the dark side of the economy. This highlights the importance of cybersecurity.
+ 
+This affects global cybersecurity and crypto markets, revealing the scope of North Korean hackers' activities. Now, be vigilant and secure your online presence.
+ 
+#CyberSecurity #NorthKoreaHackers #Cryptocurrency
+==================================================
+
+[推文 4] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin tops $72K after $280M liquidation targets bears: Will the ‘fragile truce’ hold?
+链接：https://cointelegraph.com/news/bitcoin-tops-dollar72k-after-dollar280m-liquidation-targets-bears-will-the-fragile-truce-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币突破7.2万美元
+ 
+比特币突破7.2万美元的原因是280万美元的空头目标被清算，目前市场的“脆弱和平”能否持久值得关注。根据数据，比特币的价格已经连续五天上涨，投资者对市场的信心正在恢复。这种情况下，比特币的市场价值已经达到1.4万亿美元。
+ 
+投资者和交易者需要密切关注比特币的价格走势，因为这将对整个加密货币市场产生重大影响。
+ 
+投资者可以立即开始购买和持有比特币，以便在未来可能的上涨中获得利益。
+ 
+#比特币 #加密货币 #区块链
+
+【英文推文】
+Bitcoin hits $72K
+
+Bitcoin's price surge is driven by a $280M liquidation of bearish targets, with its market value reaching $1.4T. The cryptocurrency has seen a 5-day consecutive price increase, restoring investor confidence. 
+Its price movement will significantly impact the entire crypto market, and investors can consider buying and holding Bitcoin for potential future gains.
+#Bitcoin #Cryptocurrency #Blockchain
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Bitcoin Depot ATM Operator Says $3.6 Million in BTC Stolen in Corporate Hack
+链接：https://decrypt.co/363734/bitcoin-depot-atm-operator-3-6-million-btc-stolen-security-breach
+----------------------------------------
+【中文推文】
+停下来，3.6百万美元被盗
+
+比特币自动提款机运营商Bitcoin Depot近期披露，一起企业网络攻击事件导致其损失约3.6百万美元的比特币。该事件发生在攻击者获取了结算账户凭据后，运营商花费了两周的时间才公开披露此事。据悉，这一事件凸显了加密货币领域的安全挑战。
+
+这起事件将对整个加密货币交易行业产生影响，尤其是对使用自动提款机服务的用户和投资者。安全漏洞的存在可能导致信任危机，进而影响市场稳定性。
+
+现在，相关企业和投资者需要密切关注安全措施，确保自己的资产和信息安全。
+
+#加密货币安全 #比特币ATM #区块链风险
+
+【英文推文】
+$3.6M stolen in hack
+
+Bitcoin Depot, a major bitcoin ATM operator, has disclosed a $3.6M theft in BTC after hackers gained control of settlement account credentials. This incident highlights the significant security challenges in the crypto space, with potential losses totaling millions. 
+
+This event will impact the entire crypto trading industry, particularly users and investors of ATM services, potentially leading to a trust crisis and market instability. Investors should now prioritize security measures to protect their assets.
+
+#CryptoSecurity #BitcoinATM #BlockchainRisk
+==================================================
+
