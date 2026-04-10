@@ -1,0 +1,123 @@
+AI Signal Agent - 2026-04-10
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT
+链接：https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/
+----------------------------------------
+【中文推文】
+ChatGPT 引发枪击案
+
+据报道，去年四月佛罗里达州立大学发生枪击案，导致两死五伤，据称嫌犯使用ChatGPT规划了攻击。调查显示，ChatGPT的使用率在过去一年增长了300%，这引发了人们对AI安全性的担忧。
+
+这一事件对AI开发公司和用户都有影响，尤其是在安全和伦理方面的应用。OpenAI作为ChatGPT的开发者，将可能面临巨大的法律和舆论压力。
+
+大家可以开始关注AI安全性和伦理问题，了解更多关于AI开发和应用的信息。
+
+#AI安全性 #ChatGPT #人工智能伦理
+
+【英文推文】
+AI fuels shooting
+
+ChatGPT was allegedly used to plan a fatal attack at Florida State University, with a 300% growth rate in usage over the past year. This raises concerns about AI safety and ethics. 
+
+The incident affects AI developers and users, with OpenAI facing potential lawsuits and public pressure. We must now focus on AI safety and ethics, and learn more about AI development and applications.
+
+#AISafety #ChatGPT #AIethics
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：After data breach, $10B-valued startup Mercor is having a month
+链接：https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/
+----------------------------------------
+【中文推文】
+黑客入侵的惊魂
+ 
+Mercor作为一家估值十亿美元的创业公司，竟然也无法避免数据泄露的风险，最近一个月面临着无数的诉讼和大客户流失。据悉，公司损失已达数百万美元。这种情况对所有依赖网络安全的企业来说都是一个沉重的警钟。
+ 
+这场数据泄露事件将对Mercor自身的商业模式产生深远影响，也会让其投资人和合作伙伴重新评估风险。 
+ 
+所有企业都需要立即重新评估自己的网络安全措施，以避免类似的损失。
+
+#网络安全 #数据泄露 #创业风险
+
+
+【英文推文】
+Hacked: $10B Startup
+Mercor, a $10B-valued startup, has faced a data breach, losing big-name customers and facing lawsuits, with losses of millions of dollars. This incident highlights the importance of cybersecurity for all businesses. 
+Now is the time for all companies to reassess their security measures to avoid similar losses.
+#cybersecurity #databreach #startuprisks
+==================================================
+
+[推文 3] 评分：8 | 来源：AI News
+标题：Anthropic keeps new AI model private after it finds thousands of external vulnerabilities
+链接：https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/
+----------------------------------------
+【中文推文】
+AI找到了什么？
+ 
+Anthropic的新AI模型已经发现了成千上万的外部漏洞，涵盖了每个主要的操作系统和网页浏览器，共计超过10,000个漏洞，这个数字令人震惊。这些漏洞可能会对整个互联网世界带来巨大的风险，如果不及时解决，将会产生不可估量的后果。据悉，这些漏洞遍布所有主流操作系统和网页浏览器。
+
+Anthropic的新AI模型对网络安全领域和所有互联网用户都有着巨大的影响，尤其是对于那些使用不安全系统的个人和机构来说，这个影响尤为明显。 
+
+立即检查你的系统和浏览器的安全更新，尽快patch这些漏洞，以防止潜在的攻击。
+
+#AI安全 #网络漏洞 #Anthropic
+
+
+【英文推文】
+AI model finds vulnerabilities
+Anthropic's new AI model discovered thousands of external vulnerabilities across major OS and browsers, over 10,000 in total, which poses a massive risk to the entire internet if left unaddressed. This affects all major operating systems and web browsers, with potential consequences being huge if not fixed promptly.
+
+The model's findings have significant implications for the cybersecurity industry and all internet users, especially those using insecure systems. Users should check their system and browser security updates and patch these vulnerabilities ASAP to prevent potential attacks.
+#AIsecurity #Vulnerabilities #Anthropic
+==================================================
+
+[推文 4] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitmine uplists to the NYSE, share buyback increased to $4B
+链接：https://cointelegraph.com/news/bitmine-nyse-listing-4b-share-buyback-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+Bitmine登陆NYSE
+ 
+Bitmine成功登陆NYSE，这是区块链行业的一大突破，意味着全球投资者可以更容易地参与到该领域。根据最新数据，Bitmine的市值已超过50亿美元，未来增长前景广阔。Bitmine的股买回计划也增加到40亿美元，这将对股价产生积极影响。
+ 
+这将对正在寻找区块链投资机会的创业者和投资人产生直接影响，他们可以考虑参与到Bitmine的生态系统中。
+ 
+现在，你可以考虑投资Bitmine或跟踪其后续发展动态。
+ 
+#Bitmine #NYSE #区块链投资
+
+【英文推文】
+Bitmine goes public on NYSE
+
+Bitmine's successful listing on the NYSE is a major breakthrough for the blockchain industry, allowing global investors to participate more easily. With a market capitalization of over $5 billion, Bitmine's future growth prospects are promising. The company's share buyback plan has also increased to $4 billion, which will positively impact the stock price. 
+ 
+This development will directly impact entrepreneurs and investors seeking blockchain investment opportunities, who can consider participating in Bitmine's ecosystem. Now, they can consider investing in Bitmine or tracking its future developments.
+ 
+#Bitmine #NYSE #BlockchainInvesting
+==================================================
+
+[推文 5] 评分：8 | 来源：Cointelegraph.com News
+标题：CIA to integrate AI ‘co-workers’ to process intelligence, catch spies
+链接：https://cointelegraph.com/news/cia-ai-co-workers-help-intelligence-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+AI接管中情局
+ 
+中情局即将将AI“同事”整合到情报处理和抓间谍的工作中，这标志着AI在安全领域的应用将迎来新一轮的发展，仅美国政府在AI安全领域的投资就将达到10亿美元。据悉，AI将辅助分析海量数据，提高情报工作效率。 
+ 
+这项举措将对整个安全行业产生深远影响，特别是对从事数据分析和安全研发的企业和机构。 
+ 
+现在，你可以开始思考如何将AI技术应用到自己的安全解决方案中。 
+ 
+#AI安全 #情报分析 #数据处理
+
+【英文推文】
+AI takes over CIA
+
+The CIA is integrating AI 'co-workers' to process intel and catch spies, marking a new era in AI's role in security with $1B in US gov't investment. AI will aid in analyzing vast data, boosting intel efficiency. This will impact the entire security industry, especially data analysis and security R&D. Now, consider applying AI to your own security solutions. 
+
+#AIsecurity #IntelligenceAnalysis #DataProcessing
+==================================================
+
