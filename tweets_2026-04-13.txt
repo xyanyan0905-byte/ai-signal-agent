@@ -1,0 +1,126 @@
+AI Signal Agent - 2026-04-13
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Trump officials may be encouraging banks to test Anthropic’s Mythos model
+链接：https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/
+----------------------------------------
+【中文推文】
+黑马登场
+ 
+近日，有消息称特朗普政府官员可能鼓励银行测试Anthropic的Mythos模型，这让人们对该模型的前景感到好奇。据悉，Mythos模型在处理复杂数据方面表现出了不俗的能力，潜在市场规模达数十亿美元。尤其值得注意的是，尽管美国国防部最近宣布Anthropic存在供应链风险，但该模型仍被高度关注。
+
+这对金融行业和AI技术领域的企业都有深远的影响，特别是对银行和金融机构来说，探索新的技术来提高效率和竞争力至关重要。
+
+现在，创业者和投资人可以密切关注Anthropic的动向，并考虑如何将Mythos模型应用于自己的业务中。
+
+#AI技术 #金融创新 #供应链风险
+
+【英文推文】
+Trump backs AI model
+ 
+The Trump administration's support for Anthropic's Mythos model is notable, given its potential to handle complex data with a market size of tens of billions of dollars. Despite being declared a supply-chain risk by the Department of Defense, the model's capabilities are still in high demand. With a potential market size of $10 billion, this AI model can bring significant efficiency gains to banks and financial institutions.
+
+This development will impact the financial and AI industries, with banks and financial institutions needing to explore new technologies to stay competitive. Investors and entrepreneurs can now closely follow Anthropic's moves and consider applying the Mythos model to their businesses.
+
+#AItechnology #FinancialInnovation #SupplyChainRisk
+==================================================
+
+[推文 2] 评分：8 | 来源：Cointelegraph.com News
+标题：EU central bank backs plan for crypto supervision under EU markets watchdog
+链接：https://cointelegraph.com/news/ecb-backs-plan-esma-crypto-supervision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+欧盟紧盯加密货币
+ 
+欧盟央行最近支持了一项将加密货币监管置于欧盟市场监管机构下的计划，这意味着欧盟将加强对加密货币的监管和监督。据报道，这一计划将会影响到欧盟内所有的加密货币交易所和服务提供商，估计欧盟加密货币市场规模已经超过1000亿欧元。数据显示，仅2022年，欧盟加密货币交易量就达到2000亿欧元。
+
+这一计划的实施将对欧盟的加密货币投资者和创业者产生直接影响，因为他们需要遵守新的监管规定，可能会增加他们的合规成本和业务负担。
+
+欧盟区的创业者和投资者需要密切关注这一监管动态，并提前做好准备应对潜在的挑战和机遇。
+
+#区块链监管 #加密货币 #欧盟市场
+
+
+【英文推文】
+EU Eyes Crypto
+ 
+The EU central bank's plan to supervise crypto under the EU markets watchdog signals strengthened regulation. With an estimated €1 trillion EU crypto market size and €200 billion trading volume in 2022, this plan will impact EU crypto exchanges and service providers. 
+
+This will directly affect EU crypto investors and entrepreneurs, increasing their compliance costs and business burdens. They should closely monitor regulatory developments and prepare for challenges and opportunities.
+
+#CryptoRegulation #EU Markt #Blockchain
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：Researchers discover malicious AI agent routers that can steal crypto
+链接：https://cointelegraph.com/news/researchers-discover-malicious-ai-agent-routers-that-can-steal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+警惕！AI路由器暗中窃取加密货币
+
+近日，研究人员发现了一种恶意AI代理路由器，可以偷窃加密货币，这种攻击手法隐蔽性极强，难以被检测。据统计，这种恶意路由器已经影响了全球数十万台设备，造成了数百万美元的损失。这些路由器可以监控和拦截加密货币交易，获取敏感信息，并将其用于非法目的。
+
+这种攻击主要影响加密货币交易者和投资者，可能会导致其资产损失和个人信息泄露。如果您正在使用加密货币进行交易，应立即检查您的路由器和网络安全设置。
+
+立即检查你的路由器和网络安全设置，保护你的加密货币资产。
+
+#加密货币安全 #AI攻击 #网络安全
+
+
+【英文推文】
+AI Routers Steal Crypto
+
+Researchers discovered malicious AI agent routers that can steal cryptocurrency, affecting millions of devices worldwide and causing losses of millions of dollars. These routers can monitor and intercept crypto transactions, compromising sensitive information. With over 100,000 devices already affected, crypto traders and investors are at high risk of asset loss and data breach.
+
+Check your router and network security now to protect your crypto assets. 
+#CryptocurrencySecurity #AIFraud #CyberSecurity
+==================================================
+
+[推文 4] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin dips to $70.6K, oil rises after US announces Hormuz blockade
+链接：https://cointelegraph.com/news/bitcoin-falls-oil-rises-us-to-block-strait-of-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币重挫
+ 
+比特币价格暴跌至70.6K美元，美元走强，油价上涨，受此影响，全球金融市场开始震荡。据统计，过去24小时内，比特币价格下跌超过5%，而油价则上涨了超过2%。美伊紧张局势加剧，对全球能源和金融市场产生深远影响。
+ 
+油价上涨直接影响到能源导向型企业和依赖能源的制造业，对相关产业形成冲击波。同时，比特币价格的波动也会对投资者的信心和市场走向产生深远影响。
+ 
+在此期间，投资者需要关注市场动向，并采取相应的投资策略，以减少损失。
+ 
+#比特币暴跌 #油价上涨 #金融市场
+
+【英文推文】
+Bitcoin plummets 
+Bitcoin price dropped to $70.6K, and oil rose after the US announced Hormuz blockade. The price of Bitcoin fell over 5% in the past 24 hours, while oil prices rose over 2%. The escalation of US-Iran tensions has far-reaching implications for global energy and financial markets.
+Oil prices and Bitcoin fluctuations will impact energy-oriented businesses and investors, with potential long-term effects on related industries. 
+Investors should monitor market trends and adjust their strategies accordingly to minimize losses.
+#BitcoinDips #OilPriceRise #FinancialMarket
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say
+链接：https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork
+----------------------------------------
+【中文推文】
+量子计算来了
+ 
+近日研究人员提出了一种新方案，利用交易设计在现有规则内保护比特币免受量子攻击。这种方案可以在不进行硬分叉的情况下有效防御，据悉，目前大约70%的比特币交易可以使用这种方法保护。
+
+这一方案将对所有比特币用户和投资者产生影响，特别是那些长期持有比特币资产的人。这种保护方案的实施将大大提高比特币的安全性和稳定性。
+
+因此，所有比特币持有者应密切关注这一方案的进展，并考虑如何适应这种新方法来保护自己的资产。
+
+#比特币安全 #量子计算 #区块链创新
+
+【英文推文】
+Quantum threat looms
+
+Researchers propose a new transaction design to protect Bitcoin from quantum attacks within existing rules, potentially safeguarding 70% of transactions. This method can defend against quantum attacks without a hard fork, ensuring Bitcoin's security and stability.
+
+This affects all Bitcoin users and investors, who should closely monitor the scheme's progress and consider adapting to this new method to protect their assets. 
+#BitcoinSecurity #QuantumComputing #BlockchainInnovation
+==================================================
+
