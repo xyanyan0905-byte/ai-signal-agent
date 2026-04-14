@@ -1,0 +1,99 @@
+AI Signal Agent - 2026-04-14
+==================================================
+
+[推文 1] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin nears $75K as Iran deal hopes spark $400M short squeeze
+链接：https://cointelegraph.com/news/bitcoin-75k-iran-deal-hopes-spark-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币疯狂
+ 
+比特币价格近期飙升至75,000美元，伊朗协议希望引发价值4亿美元的做空挤压，数据显示近期比特币的交易量大幅增加。这种趋势表明投资者对比特币的信心正在增强，市场预期比特币还将持续走高。近期的交易数据显示，投资者对比特币的兴趣度明显提升。
+
+这种价格上涨对投资者和矿工来说有着重要影响，尤其是那些早期投入比特币的投资者，他们可能会获得可观的回报。
+
+投资者现在可以考虑增持比特币，以便在下一个价格上涨中获得更多的收益。
+
+#比特币 #数字货币 #区块链
+
+【英文推文】
+Bitcoin surges
+Bitcoin price nears $75K with a $400M short squeeze amid Iran deal hopes, driven by increased trading volume. This trend shows growing investor confidence in Bitcoin, with market expectations of further price increases.
+
+This impacts investors and miners, who may reap significant returns. Investors can now consider increasing Bitcoin holdings to maximize gains in the next price surge.
+
+#Bitcoin #Cryptocurrency #Blockchain
+==================================================
+
+[推文 2] 评分：8 | 来源：Decrypt
+标题：Japan's Tech Titans Just Teamed Up to Build a Trillion-Parameter AI—And It's Not Here to Chat
+链接：https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony
+----------------------------------------
+【中文推文】
+日本科技巨头联合
+ 
+日本软银、索尼、 本田和NEC联合成立新公司，打造 trillion-参数物理AI，获得67亿美元政府资金支持，这标志着AI从虚拟聊天向实体智能转变，预计在未来5年内实现显著应用。
+ 
+这将对制造业和服务业产生重大影响，特别是对于需要高精度和实时控制的领域，如汽车和医疗设备。
+ 
+立即关注日本科技巨头的最新动态，抢占AI+制造的先机！
+ 
+#AI革命 #日本科技 #制造业创新
+
+【英文推文】
+Japan Unites on AI
+ 
+Japan's tech giants form a new company to build trillion-parameter physical AI, backed by $6.7B in gov funding. This shift from virtual chat to physical intelligence is expected to have major applications in the next 5 years.
+ 
+This will impact manufacturing and service industries, particularly those requiring high precision and real-time control. Invest now in AI-driven manufacturing and get ahead of the game!
+ 
+#AIRevolution #JapanTech #ManufacturingInnovation
+==================================================
+
+[推文 3] 评分：7 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Stanford report highlights growing disconnect between AI insiders and everyone else
+链接：https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/
+----------------------------------------
+【中文推文】
+ AI恐慌来袭
+ 
+ Stanford最新的AI指数报告显示，AI领域内外的认知差距越来越大，80%的AI从业者认为AI是积极的，但公众对AI的担忧日益增加，尤其是在工作、医疗和经济方面。报告指出，AI引发的焦虑正在升级，64%的受访者认为AI会对工作产生负面影响。
+ 
+ 这种认知差距对创业者、投资人和政策制定者都有重要影响，需要他们重新审视AI的发展和应用。
+ 
+ 立即关注AI的最新发展动态，了解政策和投资趋势，才能在人工智能时代抢占先机。
+ 
+ #AI #人工智能 #创业投资
+
+【英文推文】
+AI anxiety rises
+The latest Stanford AI Index report reveals a growing disconnect between AI experts and the public, with 80% of insiders viewing AI positively, while 64% of respondents fear AI's negative impact on jobs. AI-driven concerns are escalating, particularly in healthcare and the economy.
+The widening gap affects entrepreneurs, investors, and policymakers, who must reassess AI's development and applications. Stay informed about AI trends and policies to stay ahead.
+#AI #ArtificialIntelligence #Entrepreneurship
+==================================================
+
+[推文 4] 评分：7 | 来源：Decrypt
+标题：'Dramatic Change': Starknet Creator Reveals Layoffs Amid Revenue-Focused Pivot
+链接：https://decrypt.co/364219/dramatic-change-starknet-creator-layoffs-revenue-focused-pivot
+----------------------------------------
+【中文推文】
+Starknet大裁员
+ 
+StarkWare的CEO Eli Ben-Sasson 公布了大规模裁员，这一举动背后是为了重心转向营收。据悉，这家基于以太坊的公司原本在人才聘用上投入了大量资金，但现在不得不在成本和收入之间做出艰难的选择。例如，去年的研发投入就高达7000万美元，占据了公司收入的50%以上。
+ 
+这次裁员对以太坊的生态圈和相关创业者来说将产生重大影响，可能会导致更多的类似公司重新评估自己的商业模式。
+ 
+现在你可以开始思考如何在Web3领域优化成本和收入结构了。
+ 
+#Web3 #以太坊 #区块链
+
+【英文推文】
+Starknet's massive layoffs
+
+StarkWare's CEO Eli Ben-Sasson announced a major restructuring, prioritizing revenue over talent acquisition. The company spent $70 million on R&D last year, accounting for over 50% of its revenue. This pivot is a wake-up call for Ethereum-based startups to rebalance their cost and revenue structures.
+
+The layoffs will impact Ethereum's ecosystem and force similar companies to reassess their business models. Now is the time to rethink your cost and revenue strategy in the Web3 space.
+
+#Web3 #Ethereum #Blockchain
+==================================================
+
