@@ -1,0 +1,101 @@
+AI Signal Agent - 2026-04-18
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’
+链接：https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/
+----------------------------------------
+【中文推文】
+OpenAI 副总裁离职
+ 
+OpenAI 副总裁 Kevin Weil 和 Bill Peebles 离职，这标志着公司战略的重大调整。据悉，OpenAI 正在关闭 Sora 项目，并整合其科学团队，转向企业 AI 领域。这种调整可能是为了专注于更有盈利潜力的企业市场，而不是追求消费级的月球射击（moonshots）项目。
+ 
+这次调整将对 OpenAI 的业务战略和投资者产生重大影响，尤其是那些看好公司消费级 AI 项目的投资者。
+ 
+如果您是一位与 OpenAI 有合作的企业或投资者，需要密切关注公司的业务调整，并相应地调整您的战略。
+ 
+#OpenAI #AI #企业AI
+
+【英文推文】
+OpenAI Execs Exit
+
+OpenAI's pivot away from consumer moonshots toward enterprise AI is marked by the departure of Kevin Weil and Bill Peebles, as the company shuts down Sora and folds its science team. This shift signals a strategic focus on more profitable enterprise markets. With over 80% of AI investments going into enterprise solutions, this move may be a wise one.
+
+The impact will be significant for OpenAI's business strategy and investors, especially those betting on consumer-facing AI projects. Investors and partners should closely monitor these changes and adjust their strategies accordingly. 
+#OpenAI #AI #EnterpriseAI
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges
+链接：https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/
+----------------------------------------
+【中文推文】
+Cursor估值或达500亿美元
+ 
+Cursor计划募资20亿美元，估值高达500亿美元，得益于企业营收激增。Returning背书者a16z和Thrive将领投本轮融资，凸显Cursor的巨大增长潜力。据悉，Cursor的营收增速迅速，吸引了许多投资者的目光。
+
+这将对企业软件和科技投资产生重大影响，尤其是那些专注于企业增長的創業者和投资人。
+
+立即关注Cursor的后续动态，並评估其商业模式和增长潜力。
+
+#Cursor #估值 #融资
+
+【英文推文】
+Cursor's $50B valuation
+
+Cursor plans to raise $2B+ at a $50B valuation, driven by surging enterprise growth. Backed by a16z and Thrive, this funding round highlights Cursor's massive growth potential. 
+
+This will impact enterprise software and tech investments, especially for entrepreneurs and investors focused on enterprise growth. Now, monitor Cursor's next moves and assess its business model.
+
+#Cursor #Funding #Valuation
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：X's new Cashtags feature drives $1B trading volume in first two days
+链接：https://cointelegraph.com/news/x-cashtags-feature-drives-1-billion-trading-volume-first-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+1亿美元交易量爆发
+ 
+X公司的新Cashtags功能仅两天就驱动了1亿美元的交易量，这是社交媒体平台在金融领域的强大影响力，数据显示，首两日交易量增长了500%。这证明了社交媒体在金融领域的潜力。
+ 
+这对金融科技公司和相关投资者来说具有重要意义，意味着新的商业机会。
+ 
+立即关注X公司的后续动态，捕捉可能出现的新商机。
+ 
+#金融科技 #社交媒体金融 #交易量爆发
+
+【英文推文】
+$1B trading volume in 2 days
+
+X's new Cashtags feature drove $1B trading volume in the first two days, showcasing social media's impact on finance with a 500% increase. This highlights the potential of social media in the financial sector.
+ 
+The development affects fintech companies and investors, offering new business opportunities, and investors should take action to capitalize on this trend. 
+#Fintech #SocialMediaFinance #TradingVolume
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?
+链接：https://decrypt.co/364793/bitcoin-btc-price-breaks-seven-month-resistance
+----------------------------------------
+【中文推文】
+比特币破7月线
+ 
+比特币价格突破7个月的下降趋势，地缘政治变化和预测市场指向8.4万美元的可能性，近期比特币价格已上涨超过10%。这一趋势可能与全球经济不确定性和投资者对安全资产的需求增加有关。 
+ 
+这个变化可能对加密货币投资者和市场参与者产生重大影响，尤其是那些已经押注比特币的人。 
+ 
+现在是时候重新评估对加密货币市场的投资策略了。
+ 
+#比特币走势 #加密货币投资 #区块链趋势
+
+【英文推文】
+Bitcoin breaks 7-month trend
+
+Bitcoin's price has broken a 7-month downtrend, with geopolitical shifts and prediction markets pointing to $84K. The recent 10% price surge may be linked to global economic uncertainty and increased demand for safe assets. 
+ 
+This shift may significantly impact crypto investors and market participants, especially those already invested in Bitcoin. It's time to reassess your crypto investment strategy.
+ 
+#BitcoinTrend #CryptoInvesting #Blockchain
+==================================================
+
