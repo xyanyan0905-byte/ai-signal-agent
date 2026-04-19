@@ -1,0 +1,100 @@
+AI Signal Agent - 2026-04-19
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：AI chip startup Cerebras files for IPO
+链接：https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/
+----------------------------------------
+【中文推文】
+AI芯片第一股来了
+ 
+Cerebras最近与亚马逊云服务和OpenAI签订了合作协议，这意味着其芯片将被用于更多的云计算和AI应用场景，据悉价值超过100亿美元。Cerebras的芯片设计针对大规模AI模型的训练，能够显著提高算力的效率。
+ 
+这对AI芯片公司、云服务提供商和AI应用开发者都有重大的影响，他们需要关注Cerebras的上市进展和技术发展动向。
+ 
+立即关注Cerebras的IPO动态和AI芯片技术趋势。
+
+#AIchip #Cerebras #IPO
+
+【英文推文】
+AI chip IPO is coming
+
+Cerebras' recent deals with AWS and OpenAI, worth over $10 billion, highlight its chip's potential in cloud computing and AI applications. Its chip design focuses on large-scale AI model training, significantly improving computing efficiency. This development impacts AI chip companies, cloud service providers, and AI app developers.
+
+#AIchip #Cerebras #IPO
+==================================================
+
+[推文 2] 评分：8 | 来源：Decrypt
+标题：What Is Q-Day? The Quantum Threat to Bitcoin Explained
+链接：https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained
+----------------------------------------
+【中文推文】
+量子威胁即将来临
+
+量子计算机可能会伪造比特币的数字签名，允许未经授权的交易。据估计，量子计算能力的增强可能会在未来5-10年内破坏比特币的安全。已经有研究表明，量子计算机可以在短时间内破解某些加密算法。
+
+这对比特币投资者和使用者来说是一个巨大的威胁，因为如果量子计算机能够破解比特币的安全，投资者可能会遭受巨大的损失。
+
+投资者应该密切关注比特币的安全更新和量子计算技术的进展，及时调整投资策略。
+
+#量子威胁 #比特币安全 #加密货币
+
+
+【英文推文】
+Quantum threat is coming
+
+Experts warn that quantum computers can forge Bitcoin's digital signatures, allowing unauthorized transactions. With quantum computing power increasing, Bitcoin's security may be compromised in 5-10 years, with some algorithms already vulnerable to quantum attacks. For example, researchers have shown that quantum computers can break certain encryption algorithms in a short time.
+
+This poses a significant threat to Bitcoin investors and users, who may suffer huge losses if quantum computers can crack Bitcoin's security. Investors should keep a close eye on Bitcoin's security updates and quantum computing advancements, and adjust their investment strategies accordingly. 
+#QuantumThreat #BitcoinSecurity #Cryptocurrency
+==================================================
+
+[推文 3] 评分：8 | 来源：Decrypt
+标题：OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It
+链接：https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model
+----------------------------------------
+【中文推文】
+突破性发现
+ 
+OpenAI 推出的新型 AI 模型 Rosalind 可能将药物研发时间缩短数年，据悉，这是 OpenAI 首个针对特定领域的模型——专注于药物发现和生命科学领域。据预测，这可能将药物研发时间缩短 20% 至 30%。此外，Rosalind 可能将大幅减少药物临床试验的失败率，提高药物研发的成功率。
+
+这对生物技术、制药等相关企业和投资者有着重要影响，因为这可能改变整个药物研发的生态系统，并带来巨大的商业机会。
+
+企业和投资者可以现在开始研究如何利用此技术革新自己的药物研发流程。
+
+#AI革新 #药物发现 #生命科学
+
+【英文推文】
+AI Revs Drug Discovery
+
+OpenAI's GPT-Rosalind model can cut years off drug discovery, with a potential 20-30% reduction in development time. This domain-specific model is a game-changer for the life sciences industry, with significant implications for biotech and pharma companies.
+
+Its impact will be felt by these companies and investors, who can now explore how to leverage this technology to revolutionize their own drug development processes. 
+
+#AIRevolution #DrugDiscovery #LifeSciences
+==================================================
+
+[推文 4] 评分：7 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Tesla brings its robotaxi service to Dallas and Houston
+链接：https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/
+----------------------------------------
+【中文推文】
+自动驾驶出租车来了
+ 
+特斯拉的robotaxi服务已经扩展到达拉斯和休斯顿，仅用一年时间就在三座德克萨斯州城市落地，今年1月开始提供无安全驾驶员的搭乘服务，这意味着自动驾驶技术的商业化进程加速了，尤其是在美国市场上，其服务的覆盖人数预计将达数十万人。
+ 
+这次扩张将对自动驾驶行业的投资和创业产生重大影响，因为特斯拉的移动性和自动驾驶能力在市场上具有重要的领先地位。
+ 
+关注自动驾驶行业的发展趋势，并寻找投资和创业的机会。
+ 
+#自动驾驶 #特斯拉 #robotaxi
+
+【英文推文】
+Tesla's robotaxi is here
+
+Tesla's robotaxi service has expanded to Dallas and Houston, marking its third city in Texas, with tens of thousands of people expected to use the service. This rapid commercialization of autonomous driving technology, especially in the US market, is a significant development. With over a million miles driven without safety drivers, Tesla's mobility and autonomous driving capabilities are leading the market.
+
+This expansion will significantly impact the autonomous driving industry, with investment and entrepreneurial opportunities emerging. Invest in autonomous driving stocks or startups now. 
+#AutonomousVehicles #Tesla #Robotaxi
+==================================================
+
