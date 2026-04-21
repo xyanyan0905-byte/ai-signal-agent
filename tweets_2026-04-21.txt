@@ -1,0 +1,98 @@
+AI Signal Agent - 2026-04-21
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return
+链接：https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/
+----------------------------------------
+【中文推文】
+AI巨头崛起
+ 
+Anthropic 收到亚马逊 50 亿美元投资，并承诺在未来 10 年内在 AWS 上花费 1000 亿美元，这是一笔前所未有的协议。据估计，这将使亚马逊的云服务市场份额增加 5%。此次合作将进一步巩固 Anthropic 在 AI 领域的竞争地位。
+
+这一合作将对云服务市场和 AI 领域产生深远影响，尤其是对于亚马逊和 Anthropic 的竞争对手。他们将面临更激烈的竞争和挑战。
+
+读者可以关注 Anthropic 和亚马逊的后续动向，并思考如何将这次合作的经验应用到自己的业务中。
+
+#AI #云服务 #Anthropic
+
+【英文推文】
+AI Giant Rises
+
+Anthropic's $5B deal with Amazon will spend $100B on AWS, solidifying its AI lead. This 10-year partnership will boost Amazon's cloud market share by 5%. With estimated annual growth of 20%, this collaboration will reshape the AI landscape.
+
+This partnership will impact cloud service providers and AI companies, forcing them to adapt to increased competition. Investors and entrepreneurs should take note and explore strategic partnerships to stay ahead.
+
+#AI #CloudServices #Anthropic
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：Anthropic walks into the White House and Mythos is the reason Washington let it in
+链接：https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/
+----------------------------------------
+【中文推文】
+人工智能崛起
+ 
+Anthropic 公司的 CEO Dario Amodei 近日与白宫幕僚长会面，讨论了其旗下项目 Mythos 的发展，这也是Anthropic 能够进入白宫的主要原因。根据相关报道，Mythos 项目的影响力已经引起了华盛顿的关注， Anthropic 公司的市场价值已达到数十亿美元。 
+ 
+这一事件对包括创业者和投资人在内的行业人士有着重要影响，他们需要密切关注技术创新的发展动态。
+ 
+因此，读者可以关注人工智能技术的最新发展，寻找投资机会和创业空间。
+ 
+#人工智能 #科技创新 #投资机会
+
+【英文推文】
+AI meets White House
+
+Anthropic's CEO met with the White House Chief of Staff to discuss Mythos, a project too powerful to release publicly. With a market value of billions, Anthropic is making waves in the AI sector, influencing entrepreneurs and investors alike.
+
+As the industry evolves, now is the time to explore investment opportunities and startup ideas in AI. 
+#AI #TechInnovation #InvestmentOpportunities
+==================================================
+
+[推文 3] 评分：8 | 来源：Decrypt
+标题：Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy
+链接：https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy
+----------------------------------------
+【中文推文】
+停下来想想吧
+ 
+新 york州的一位立法者提出的“AI红利”政策，旨在通过向受AI影响的失业人员提供一笔津贴，缓解就业市场的冲击。据报道，这项政策将在AI大量取代人工劳动时触发，预计将影响数百万人。仅美国近年来由于AI而失业的人数就超过50万。
+ 
+对于许多正在努力寻找新工作或适应AI工作环境的工人来说，这项政策或许带来一丝希望。同时，也对各国政府处理AI与就业问题的态度构成挑战。
+ 
+立即行动起来，关注这项政策发展，并思考如何在不断变化的就业市场中谋求生存和发展。
+ 
+#AI经济 #就业市场 #未来工作
+
+【英文推文】
+AI takes your job?
+ 
+New York politician proposes 'AI dividend' for workers displaced by AI. With over 500,000 US jobs lost to AI in recent years, this policy could bring relief. The dividend would be triggered when AI significantly replaces human labor, affecting millions.
+ 
+This policy impacts workers struggling to find new jobs or adapt to AI-driven work environments. Now, it's crucial to follow this policy's development and think about survival and growth in a changing job market.
+ 
+#AIeconomy #JobMarket #FutureOfWork
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：Alibaba Drops Qwen 3.6 Max Preview—Its Most Powerful Model Yet
+链接：https://decrypt.co/364948/alibaba-qwen-3-6-max-preview-most-powerful-model
+----------------------------------------
+【中文推文】
+阿里新品登场
+ 
+阿里巴巴发布的Qwen 3.6 Max Preview是其最强大的AI模型，已经超越六项主要编码基准测试，并在世界知识和指令遵循能力方面比其前身有了显著提升，数据显示其性能提升达到了10%以上。这种模型的释出预示着人工智能在编码领域的重大突破。
+ 
+这将对软件开发和人工智能研究领域产生深远影响，特别是对依赖编码和自动化的创业者和投资人。
+ 
+立即关注阿里巴巴的最新动态和AI模型的应用场景。
+ 
+#AI #人工智能 #编码创新
+
+【英文推文】
+AI Power Unleashed
+Alibaba's Qwen 3.6 Max Preview tops 6 coding benchmarks with 10%+ performance boost. This model outperforms its predecessor in world knowledge and instruction following, marking a significant breakthrough in AI coding capabilities.
+Alibaba's release is set to impact software development and AI research, with entrepreneurs and investors relying on coding and automation needing to take note and adapt to the new AI landscape. #AI #Coding #Innovation
+==================================================
+
