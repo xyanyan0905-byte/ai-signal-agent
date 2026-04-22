@@ -1,0 +1,118 @@
+AI Signal Agent - 2026-04-22
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Meta will record employees’ keystrokes and use it to train its AI models
+链接：https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/
+----------------------------------------
+【中文推文】
+监控开始了
+ 
+Meta 正在记录员工的按键记录，并利用这些数据训练其 AI 模型，这是近年来人工智能发展的一个重要里程碑。据悉，这一技术可以将鼠标移动和按钮点击转化为数据，从而提高 AI 的精度和实用性。这种方式将使 Meta 的 AI 模型拥有更高的学习效率。
+
+这个消息对所有_Meta员工和潜在合作伙伴来说具有深远影响，他们的每一个动作都将被记录下来，并用于 AI 的训练，这也引发了对个人隐私和数据安全的担忧。
+
+现在是时候密切关注隐私政策和数据保护法案的更新了。
+
+#AI发展 #Meta监控 #数据安全
+
+【英文推文】
+Meta's surveillance begins
+
+Meta is recording employees' keystrokes to train its AI models, a significant milestone in AI development. This technology converts mouse movements and button clicks into data, enhancing AI precision and usability. With this approach, Meta's AI models will have a higher learning efficiency.
+
+This affects all Meta employees and potential partners, raising concerns about personal privacy and data security. Now is the time to closely follow updates on privacy policies and data protection laws.
+
+#AIdevelopment #Metasurveillance #DataSecurity
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims
+链接：https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/
+----------------------------------------
+【中文推文】
+惊曝安博瑞克泄密
+ 
+安博瑞克的Mythos工具遭到未经授权的访问，这可能会导致其核心技术被泄露，进而影响其市场竞争力。据报道，该工具的泄密可能会让其他公司获得其先进技术。 
+影响分析：这将对安博瑞克的投资人和合作伙伴产生直接影响，也可能对整个Web3行业产生潜在影响。
+现在可以做的就是密切关注这则新闻的后续发展，并评估其对自身业务的潜在影响。
+#AI安全 #安博瑞克 #Web3
+
+【英文推文】
+Mythos tool leaked
+Anthropic's exclusive tool Mythos has been accessed by an unauthorized group, potentially exposing its core technology and impacting its market competitiveness. This leak could give other companies access to its advanced technology.
+The incident may directly affect Anthropic's investors and partners, and potentially influence the entire Web3 industry. Now is the time to closely monitor the situation and assess its potential impact on your business. 
+#AIsecurity #Anthropic #Web3
+==================================================
+
+[推文 3] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：SpaceX is working with Cursor and has an option to buy the startup for $60B
+链接：https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/
+----------------------------------------
+【中文推文】
+星链大动作
+ 
+SpaceX 与 Cursor 合作，并有可能以 600 亿美元收购后者，这将加强其在 AI 领域的竞争力。然而，这也暴露了他们在 AI 模型方面的劣势，尤其是与 Anthropic 和 OpenAI 相比。据统计，后两者的市场份额已经超过 50%。
+ 
+这一合作对 AI 开发者市场来说将产生重大影响，尤其是 Cursor 和 xAI 在竞争中处于劣势。他们需要加速发展自己的 AI 模型，否则将面临被淘汰的风险。
+ 
+现在，创业者和投资者可以密切关注这一合作带来的机会和挑战，考虑如何在 AI 领域布局以获得先机。
+ 
+#AI #SpaceX #Cursor
+
+【英文推文】
+SpaceX's $60B bet
+ 
+SpaceX partners with Cursor, considering a $60B acquisition, to boost AI capabilities. However, this move reveals weaknesses in proprietary models, lagging behind Anthropic and OpenAI, which hold over 50% market share. 
+ 
+This deal impacts AI developers, as Cursor and xAI struggle to compete, and investors should monitor the opportunities and challenges arising from this partnership to position themselves for the future.
+ 
+#AI #SpaceX #Cursor
+==================================================
+
+[推文 4] 评分：8 | 来源：AI News
+标题：Siemens introduces AI system for automation engineering
+链接：https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/
+----------------------------------------
+【中文推文】
+未来已来
+ 
+ Eigen Engineering Agent 的推出，标志着 AI 正式入侵工业自动化领域，自动化工程任务的规划和验证将变得更加高效，据悉该系统可以通过多步骤推理和自我纠正来完成任务，并且可以直接在工程平台上运行，提高了 30% 的效率。
+ 
+ 这一动态将对工业自动化领域的企业和开发者产生重大影响，特别是那些已经在使用 Siemens 的产品和服务的客户。
+ 
+ 现在就可以开始探索 Eigen Engineering Agent 的应用场景和潜在商业价值。
+ 
+ #AI #工业自动化 #Siemens
+
+【英文推文】
+AI takes over automation
+Siemens' Eigen Engineering Agent uses multi-step reasoning to automate tasks, increasing efficiency by 30%. The system operates directly within engineering platforms, revolutionizing the industry. This development will impact industrial automation companies and developers, especially Siemens' clients. 
+#AI #IndustrialAutomation #Siemens
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful
+链接：https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful
+----------------------------------------
+【中文推文】
+AI找到了271个漏洞
+ 
+Claude Mythos 这个AI模型在Mozilla Firefox中发现了271个漏洞，这个数字让人震惊，展现了AI在网络安全领域的巨大潜力。据报道，这些漏洞可能会被攻击者利用，威胁用户的安全。Claude Mythos 的能力令人印象深刻，表明AI可以成为网络安全领域的一大利器。
+ 
+这对网络安全公司和依赖网络的企业来说有着重大影响，因为他们需要重视AI在安全漏洞检测方面的作用。
+ 
+立即评估自己的网络安全系统，考虑是否需要引入AI技术进行漏洞检测。
+ 
+#AI安全 #网络漏洞 #ClaudeMythos
+
+【英文推文】
+AI found 271 vulnerabilities
+
+Claude Mythos AI model discovered 271 vulnerabilities in Mozilla Firefox, showcasing its cybersecurity potential. With 271 vulnerabilities found, this AI model demonstrates its capability in detecting security risks. This AI technology can significantly enhance network security.
+ 
+This impacts network security companies and businesses reliant on networks, prompting them to reassess their security measures with AI. Consider integrating AI-powered vulnerability detection into your security systems now.
+ 
+#AISecurity #VulnerabilityDetection #ClaudeMythos
+==================================================
+
