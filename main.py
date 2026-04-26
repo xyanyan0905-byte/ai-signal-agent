@@ -34,8 +34,8 @@ def run():
     print(f"完成！推文已保存到 {filename}")
     print(f"共生成 {len(tweets)} 条推文！")
     
-    print("第四步：自动发推...")
-    post_tweets(tweets)
+    # print("第四步：自动发推...")
+    # post_tweets(tweets)
 
 if __name__ == "__main__":
     run()
