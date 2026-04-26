@@ -82,4 +82,4 @@ This ruling changes everything for AI companies...
 
 - [ ] 接入 Twitter/X API 自动发布
 - [ ] 支持自定义新闻源
-- [ ] 添加 GitHub Actions 定时运行
+- [√ ] 添加 GitHub Actions 定时运行
