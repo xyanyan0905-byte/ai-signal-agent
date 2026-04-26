@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: 安装依赖
-       run: pip install feedparser requests python-dotenv groq tweepy
+        run: pip install feedparser requests python-dotenv groq tweepy
 
       - name: 运行Agent
         env:
