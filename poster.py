@@ -2,18 +2,18 @@ import tweepy
 import os
 
 def post_tweets(tweets):
-    client = tweepy.Client(
+    auth = tweepy.OAuth1UserHandler(
         consumer_key=os.environ.get("TWITTER_API_KEY"),
         consumer_secret=os.environ.get("TWITTER_API_SECRET"),
         access_token=os.environ.get("TWITTER_ACCESS_TOKEN"),
         access_token_secret=os.environ.get("TWITTER_ACCESS_TOKEN_SECRET")
     )
+    api = tweepy.API(auth)
     
     posted = 0
-    for item in tweets[:3]:  # 每天最多发3条
+    for item in tweets[:3]:
         tweet_text = item["tweet"]
         
-        # 提取中文推文部分
         if "【中文推文】" in tweet_text:
             start = tweet_text.find("【中文推文】") + len("【中文推文】")
             end = tweet_text.find("【英文推文】")
@@ -21,12 +21,11 @@ def post_tweets(tweets):
         else:
             chinese_tweet = tweet_text[:280]
         
-        # 推文不能超过280字
         if len(chinese_tweet) > 280:
             chinese_tweet = chinese_tweet[:277] + "..."
         
         try:
-            client.create_tweet(text=chinese_tweet)
+            api.update_status(chinese_tweet)
             print(f"✅ 发推成功: {chinese_tweet[:50]}...")
             posted += 1
         except Exception as e:
