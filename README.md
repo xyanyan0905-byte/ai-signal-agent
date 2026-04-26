@@ -1,5 +1,6 @@
 # 🤖 AI Signal Agent
 
+> **English** | An AI agent that automatically collects AI/Web3 intelligence, scores content with LLM, and generates bilingual KOL tweets — saving content creators 2-3 hours of daily research.
 > 自动抓取AI/Web3行业情报，AI评分筛选，生成中英双语KOL推文的智能体
 
 ## 🎯 项目简介
