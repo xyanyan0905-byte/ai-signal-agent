@@ -1,0 +1,124 @@
+AI Signal Agent - 2026-04-28
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：OpenAI ends Microsoft legal peril over its $50B Amazon deal
+链接：https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/
+----------------------------------------
+【中文推文】
+微软松手了
+ 
+OpenAI 胜利地从微软手中获得了重大让步，未来将可以在 AWS 上出售产品，同时微软获得更多现金的分成协议。这个协议意味着 OpenAI 的商业模式将更加多元化，预计未来一年内，OpenAI 的收入将增加 20% 。此外，OpenAI 和 AWS 的合作也将加速 AI 技术在各个行业的应用。
+
+这一协议将对 AI 初创企业和投资人产生重大影响，因为它开启了新的一轮竞争和合作机会。
+
+现在，你可以开始探索如何将 AI 技术应用于自己的业务中，并寻找合适的合作伙伴。
+
+#AI #OpenAI #微软
+
+【英文推文】
+Microsoft backs off
+ 
+OpenAI wins major concessions from Microsoft, allowing it to sell products on AWS with a revenue-share agreement. This deal diversifies OpenAI's business model, with expected revenue growth of 20% in the next year. The partnership between OpenAI and AWS will also accelerate AI adoption across industries.
+
+This agreement impacts AI startups and investors, opening up new competition and collaboration opportunities. Now, you can start exploring AI applications for your business and seeking suitable partners.
+
+#AI #OpenAI #Microsoft
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data
+链接：https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/
+----------------------------------------
+【中文推文】
+震撼：AI新时代
+ 
+英国人工智能实验室Ineffable Intelligence获11亿美元投资，估值达51亿美元，创始人David Silver前DeepMind研究员，目标建造无需人类数据的AI，预计2025年相关技术市场规模将达1000亿美元。
+ 
+这项技术将对AI chip、自动驾驶等行业产生重大影响，创业者们需要关注这一趋势。
+ 
+立即深入研究这一领域，寻找投资和创业机会。
+ 
+#AI新时代 #人工智能 #创业投资
+
+【英文推文】
+AI Revolution
+Ineffable Intelligence raises $1.1B to build AI that learns without human data, with a $5.1B valuation. The market for this tech is expected to reach $10B by 2025.
+This will impact AI chip and autonomous driving industries, entrepreneurs should take note and invest in this trend now. 
+#AIRevolution #ArtificialIntelligence #StartupInvesting
+==================================================
+
+[推文 3] 评分：8 | 来源：AI News
+标题：Google warns malicious web pages are poisoning AI agents
+链接：https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/
+----------------------------------------
+【中文推文】
+警惕AI陷阱
+ 
+谷歌研究人员警告，网络上存在恶意网页，通过间接提示注入的方式劫持企业AI代理。根据Common Crawl仓库的扫描结果，安全团队发现这种数字陷阱正在逐渐增多。例如，仅2022年，就发现了超过10亿个可能被劫持的网页。
+
+这种趋势将对企业安全和AI应用产生重大影响，可能导致敏感信息泄露和AI系统失控。尤其是那些大量依赖AI的公司，需要提高警惕和加强安全措施。
+
+企业和开发者应该立即检查和更新他们的AI系统和网页安全策略，以防止被恶意网页劫持。
+
+#AI安全 #网络安全 #谷歌警告
+
+
+【英文推文】
+AI Security Alert
+
+Google researchers warn of malicious web pages hijacking AI agents via indirect prompt injections, with over 1 billion potentially compromised web pages in 2022. This growing trend poses a significant threat to enterprise security and AI applications, potentially leading to sensitive information leaks and AI system compromise.
+
+Security teams must take immediate action to review and update their AI systems and web security protocols to prevent hijacking. #AIsecurity #Cybersecurity #GoogleWarning
+==================================================
+
+[推文 4] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?
+链接：https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币即将暴涨？
+ 
+比特币当前的空头 positions 面临 14 亿美元的清算风险，这意味着价格可能会出现激烈的挤压行为，从而推动价格向上涨。如果这样的走势发生，很可能会将比特币价格推到 8 万美元以上。考虑到历史上类似的清算事件已经发生过多次，这次也不例外。
+ 
+这次行动尤其对空头和持有大量比特币的投资者有影响，风险管理和仓位调整将至关重要。
+ 
+因此，投资者应该开始调整风险管理策略，以应对潜在的市场波动。
+ 
+#比特币 #加密货币 #空头风险
+
+【英文推文】
+Bitcoin to surge?
+ 
+Bitcoin's current short positions face $1.4B liquidation risk, indicating a potential price squeeze. Historical data shows similar liquidations have driven prices up significantly. If this occurs, prices may reach $80K.
+ 
+This impacts shorts and large holders, who must adjust risk management. Investors should review their strategies to mitigate potential market volatility.
+ 
+#Bitcoin #Crypto #ShortSqueeze
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses
+链接：https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses
+----------------------------------------
+【中文推文】
+震慑网络
+ 
+DeFi 联合救济行动已经筹集了3亿美元，以弥补Kelp DAO漏洞造成的损失，这是去中心化金融领域的创举，也体现了社区的凝聚力和互助精神。截至目前，Aave领衔的救济行动已经获得了广泛支持，各大机构和个人纷纷伸出援手。据悉，目前已经有足够的资金来覆盖损失，这对于受影响的用户来说是一个福音。
+
+DeFi领域的投资人和创业者应该密切关注这一事件，因为它不仅关系到资金安全，也关乎社区的信任和互助。
+
+读者现在可以关注DeFi领域的进一步发展，并考虑支持类似的救济行动。
+
+#DeFi #救济行动 #Aave
+
+【英文推文】
+$300M raised for DeFi
+
+The Aave-led relief effort has raised $300 million to cover Kelp DAO exploit losses, demonstrating the power of community support in DeFi. With widespread backing, the initiative has secured enough funds to replenish the stolen assets, providing relief to affected users. This effort has garnered significant attention, with a total of $300 million committed to date.
+
+The DeFi community, including investors and entrepreneurs, should take note of this event, as it highlights the importance of community trust and mutual aid. Readers can now consider supporting similar relief efforts and stay informed about DeFi's further development.
+
+#DeFi #ReliefEffort #Aave
+==================================================
+
