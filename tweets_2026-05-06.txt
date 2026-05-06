@@ -1,0 +1,102 @@
+AI Signal Agent - 2026-05-06
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw
+链接：https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/
+----------------------------------------
+【中文推文】
+SAP赌1.16亿美元
+ 
+SAP计划以1.16亿美元收购德国AI创业公司Prior Labs，并在未来18个月内对其进行大量投资。这笔投资表明SAP对AI技术的未来发展前景非常看好，尤其是在企业软件领域，AI的应用潜力巨大。根据最近的数据，全球AI市场规模预计到2025年将达到1500亿美元。
+
+这次收购和投资将对企业软件和AI技术领域的竞争格局产生重大影响，特别是对于其他企业软件提供商和AI初创公司来说。
+
+企业和投资者现在可以密切关注AI技术在企业软件领域的发展趋势，并考虑如何将AI技术应用于自己的业务中。
+
+#SAP #AI #企业软件
+
+
+【英文推文】
+SAP bets $1.16B on AI
+
+SAP's $1.16B investment in Prior Labs highlights AI's vast potential in enterprise software. The global AI market is expected to reach $1500B by 2025. This deal will impact enterprise software and AI startups, as SAP expands its AI capabilities.
+
+Companies and investors should now watch AI trends in enterprise software and consider applying AI to their businesses. 
+#SAP #AI #Enterprisesoftware
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Apple plans to make iOS 27 a Choose Your Own Adventure of AI models
+链接：https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/
+----------------------------------------
+【中文推文】
+苹果的新动向
+ 
+苹果计划在iOS 27中引入第三方AI模型，预计涉及10多种模型，用户可自选使用哪种模型进行任务处理。这种变化可能会改变移动操作系统的生态，并为用户带来更多个性化体验。据估计，未来两年内，90%的移动终端将支持类似的AI功能。
+
+影响分析：这将对第三方AI开发者和移动应用开发者产生重大影响，他们需要为新系统进行适配，优化用户体验。
+
+行动建议：创业者可以开始探索针对iOS 27的AI模型开发和集成，抢占市场先机。
+
+#AI时代 #苹果iOS #科技创新
+
+
+【英文推文】
+Apple's AI move
+
+Apple plans to introduce third-party AI models in iOS 27, estimated to involve over 10 models, allowing users to choose which model to use for tasks. This change may alter the mobile OS ecosystem, providing users with more personalized experiences. 90% of mobile devices are expected to support similar AI features within the next two years.
+
+The impact will be significant for third-party AI developers and mobile app developers, who must adapt to the new system and optimize user experience. Developers can start exploring AI model development and integration for iOS 27 to gain a market advantage.
+
+#AI #AppleiOS #TechInnovation
+==================================================
+
+[推文 3] 评分：8 | 来源：Decrypt
+标题：Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink
+链接：https://decrypt.co/366903/kelp-layerzero-292-million-hack-plans-move-chainlink
+----------------------------------------
+【中文推文】
+ LayerZero 被指盗
+ 
+Kelp 因 LayerZero 而遭遇 2.92 亿美元的黑客攻击，这一事件使我们意识到去中心化网络的安全性至关重要。据悉，这一黑客攻击导致 Kelp 计划切换到 Chainlink。相关数据显示，目前该领域的黑客攻击事件频发，仅今年就发生多起重大事件。
+ 
+这一事件对整个区块链生态系统，尤其是基于 LayerZero 的应用有着重要影响。相关投资人和创业者需要对自己的项目安全性进行重新评估。
+ 
+因此，建议读者及时关注相关的安全漏洞，并考虑使用更加安全的去中心化网络服务。
+ 
+#区块链安全 #LayerZero #Chainlink
+
+【英文推文】
+LayerZero's $292M Hack
+
+Kelp's $292 million hack due to LayerZero's vulnerability highlights the importance of decentralized network security. With multiple major hacking incidents this year, a switch to Chainlink is planned. Notably, this event affects the entire blockchain ecosystem, especially LayerZero-based applications.
+
+Investors and entrepreneurs should re-evaluate their project's security and consider more secure decentralized network services. 
+#BlockchainSecurity #LayerZero #Chainlink
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：'Moment of Danger': Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws
+链接：https://decrypt.co/366891/anthropic-warns-cyber-risk-window-ai-uncovers-flaws
+----------------------------------------
+【中文推文】
+AI揭露漏洞危机
+ 
+Anthropic CEO警告，AI正以快速的速度揭露软件漏洞，这可能会导致更快的网络攻击。据统计，每天都有成千上万的新漏洞被发现，数据表明，这将造成严重的网络安全风险。例如，仅2022年就有超过15万个新的漏洞被发现。
+ 
+这对各个企业和个人都有影响，特别是那些依赖软件和网络的机构。网络攻击可能会造成巨大的损失和影响。
+ 
+立即升级网络安全措施，降低漏洞风险。
+ 
+#AI安全风险 #网络攻击 #软件漏洞
+
+【英文推文】
+AI exposes software flaws
+ 
+AI is uncovering software bugs at scale, raising the risk of faster cyberattacks, with over 150,000 new vulnerabilities discovered in 2022 alone. This exposes significant cyber risk. Experts warn of a "moment of danger" as AI accelerates bug discovery.
+ 
+This impacts all enterprises and individuals relying on software and networks, with potential for massive losses. Upgrade your cybersecurity measures now to mitigate vulnerability risks. 
+#AIsecurityrisk #cyberattack #softwarevulnerabilities
+==================================================
+
