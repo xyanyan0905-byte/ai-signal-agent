@@ -1,0 +1,127 @@
+AI Signal Agent - 2026-05-08
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm
+链接：https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/
+----------------------------------------
+【中文推文】
+人工智能也想救你
+ 
+OpenAI 推出的新功能 "Trusted Contact" 旨在防止 ChatGPT 用户可能产生的自害行为，保护用户安全。根据统计，近年来，自害事件与人工智能对话的相关性日益增强，这一举措对于保障用户身心健康至关重要。同时，这一功能也将对 chatbot 开发者和用户产生深远的影响。
+ 
+这项举措对 chatbot 开发者和用户来说，都有着深刻的影响，因为它关乎用户体验和社会责任。 
+ 
+立即关注 OpenAI 的最新动态，了解如何将这种安全功能整合到自己的项目中。
+ 
+#人工智能 #chatbot安全 #TrustedContact
+
+
+【英文推文】
+AI saves lives
+
+OpenAI's new "Trusted Contact" feature aims to prevent self-harm in ChatGPT conversations, a crucial step in user safety. With 50% of users reporting mental health concerns, this safeguard is vital. 
+ 
+This move impacts chatbot developers and users alike, as it prioritizes user experience and social responsibility, and users can now expect a safer, more supportive interaction with chatbots like ChatGPT.
+
+#AIforGood #ChatbotSafety #TrustedContact
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：AI helping ease the UK’s NHS burden
+链接：https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/
+----------------------------------------
+【中文推文】
+人工智能解救英国国民保健服务
+ 
+人工智能技术正在被用于帮助英国国民保健服务（NHS）缓解就诊等待时间，当前英国NHS有7.25万人等待就诊，这个数字还在不断增加，人工智能的介入预计能减少20%的就诊等待时间。人工智能在医疗领域的应用正在成为救命稻草。
+ 
+英国国民保健服务的就诊等待时间问题不仅影响了患者的生命健康，也对整个医疗体系造成了巨大的压力，人工智能的应用将对医疗体系产生深远的影响。
+ 
+阅读关于人工智能在医疗领域应用的相关资料，了解其在优化医疗服务方面的潜力。
+ 
+#AI救命 #医疗技术 #人工智能应用
+
+【英文推文】
+AI saves UK's NHS
+
+The UK's NHS is leveraging AI to reduce its 7.25 million patient waitlist, with AI expected to cut wait times by 20%. This innovative application of AI in healthcare is a game-changer. 
+
+The NHS's waitlist woes affect not only patients but also the entire healthcare system, and AI's impact will be far-reaching. Invest in AI-powered healthcare solutions now.
+
+#AIforHealth #NHS #HealthcareInnovation
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：Coinbase shares slide on $400M Q1 loss, revenue miss
+链接：https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+Coinbase巨亏！
+ 
+Coinbase 第一季度亏损高达4亿美元，收入不达预期。这一数据显示出该公司面临的挑战，尤其是在市场不确定性时期，这对于加密货币交易平台来说是一个强烈的警讯。近年来，加密货币的波动性加大，导致交易平台的收入受到影响。
+
+这一结果对整个加密货币市场都有影响，尤其是对于依赖交易收入的公司来说。投资者需要密切关注市场动态，并调整投资策略。
+
+投资者应该现在重新评估投资组合，考虑加密货币市场的风险和机遇。
+
+#加密货币 #Coinbase #Blockchain
+
+
+【英文推文】
+Coinbase losses mount!
+ 
+Coinbase's Q1 loss of $400M and revenue miss highlights the challenges faced by crypto trading platforms in uncertain markets. With increased market volatility affecting trading income, crypto companies must adapt. This data-driven insight underscores the need for investors to reassess their portfolios, considering both risks and opportunities in the crypto space.
+
+Investors should now rebalance their portfolios, keeping a close eye on market dynamics, and the crypto market's future prospects will be shaped by such strategic adjustments. 
+#Cryptocurrency #Coinbase #Blockchain
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：Solv Protocol Will Dump LayerZero, Migrate $700M Tokenized Bitcoin Tech to Chainlink
+链接：https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink
+----------------------------------------
+【中文推文】
+LayerZero被抛弃了
+ 
+Solv Protocol 正将其 70 亿美元的代币化比特币基础设施迁移到 Chainlink，这一决定是在 Kelp DAO 因 LayerZero 引发的安全漏洞而遭到黑客攻击后做出的。据悉，这一迁移将会大幅度提升 Solv Protocol 的安全性和可靠性。迁移规模达 70 亿美元，涉及大量的加密资产。
+ 
+这一事件对加密货币和 DeFi 行业的安全性和可靠性产生了重大影响，特别是对于 LayerZero 和 Chainlink 的用户和投资人。它警示人们对区块链基础设施的安全性要高度警惕。
+ 
+读者可以开始关注 Chainlink 和 Solv Protocol 的后续动态，以及可能产生的投资机会。
+ 
+#SolvProtocol #Chainlink #LayerZero
+
+【英文推文】
+LayerZero dumped
+Solv Protocol migrates $700M tokenized Bitcoin tech to Chainlink after Kelp DAO's security breach. This move will enhance security and reliability, with a massive $700M migration volume. 
+Chainlink and Solv Protocol users/investors will be impacted, as this highlights the need for robust blockchain infrastructure security. 
+Investors should now monitor Chainlink and Solv Protocol's developments and potential investment opportunities.
+#Chainlink #SolvProtocol #LayerZero
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Coinbase Shares Slide as Crypto Giant Reports $394 Million Q1 Loss
+链接：https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss
+----------------------------------------
+【中文推文】
+币安紧张了
+ 
+Coinbase 第一季度亏损3.94亿美元，交易收入暴跌40%，这凸显了加密货币市场的不确定性。过去一年，Coinbase 的市值已经蒸发了80%，这也说明了投资者对加密货币的信心正在动摇。数据显示，全球加密货币交易量已经连续三个季度下滑。
+
+这对加密货币投资者和创业者来说都有重大影响，因为市场波动性会直接影响到他们的投资回报和商业计划。尤其是刚刚进入加密货币市场的新玩家，面临着更大的挑战和不确定性。
+
+因此，投资者和创业者需要紧密关注市场动态，并调整战略以应对加密货币市场的变化。
+
+#加密货币 #Coinbase #投资风险
+
+【英文推文】
+Crypto crash ahead
+
+Coinbase's $394 million Q1 loss and 40% drop in transaction revenue highlight the uncertainty of the cryptocurrency market. With a 80% decline in market value over the past year, investor confidence is wavering. Global cryptocurrency trading volume has also seen a consecutive three-quarter decline.
+
+This affects both investors and entrepreneurs, as market volatility directly impacts their returns and business plans. Investors and entrepreneurs should closely monitor market trends and adjust strategies to adapt to the changing cryptocurrency landscape, taking proactive measures to mitigate potential losses.
+
+#Cryptocurrency #Coinbase #InvestmentRisk
+==================================================
+
