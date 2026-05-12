@@ -1,0 +1,126 @@
+AI Signal Agent - 2026-05-12
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：GM just laid off hundreds of IT workers to hire those with stronger AI skills
+链接：https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/
+----------------------------------------
+【中文推文】
+GM裁员千人
+ 
+GM为了适应AI时代的发展，裁员了数百名IT员工，以招聘更加擅长AI技能的人才，未来将重点发展AI原生开发、数据工程和分析、云基工程、代理人和模型开发以及提示工程和新AI工作流等领域。据悉，这些领域的就业需求正在迅速增长，预计未来几年将有数十万个相关职位等待填补。
+ 
+这次裁员将对IT行业产生重大影响，特别是那些没有AI技能的员工。同时，这也表明AI技术已经成为企业发展的必备条件。
+ 
+企业和个人需要紧跟AI技术的发展趋势，积极培养和学习相关技能。
+ 
+#AI革命 #科技 就业趋势 #未来工作
+
+
+【英文推文】
+GM laid off thousands
+
+GM is laying off hundreds of IT workers to hire AI-savvy talent, focusing on AI-native development, data engineering, and cloud-based engineering. With tens of thousands of related jobs expected to be created in the next few years, AI skills are becoming a must-have.
+
+This move will significantly impact the IT industry, especially for workers without AI expertise. Companies and individuals must adapt to the AI trend and develop relevant skills. 
+
+#AIRevolution #TechJobs #FutureOfWork
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：Bain sees US$100 billion SaaS market in agentic AI automation
+链接：https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/
+----------------------------------------
+【中文推文】
+AI自动化市场突破
+ 
+百恩公司预测，美国SaaS行业中使用代理AI的自动化市场规模将达到1000亿美元。这个市场的增长主要受企业系统中协调工作自动化的推动，未来几年内将会迅速发展。据统计，代理AI的采用率预计在2025年达到30%。
+ 
+这个预测将对企业IT部门和SaaS服务提供商产生重大影响，尤其是那些已经开始使用AI自动化技术的公司。他们需要紧跟市场趋势，持续投资于AI技术研究和开发。
+ 
+企业可以立即开始评估内部流程，寻找能够应用AI自动化的领域。
+ 
+#AI自动化 #SaaS市场 #代理AI
+
+【英文推文】
+AI automation market boom
+
+Bain estimates a $100B US SaaS market for agentic AI automation, driven by automating coordination work in enterprise systems. Adoption rate is expected to reach 30% by 2025. This growth will significantly impact enterprise IT departments and SaaS providers.
+ 
+Companies should assess internal processes now to identify areas where AI automation can be applied. 
+#AIautomation #SaaSmarket #agenticAI
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：MARA shares sink on first-quarter revenue miss, $1.3B loss
+链接：https://cointelegraph.com/news/mara-shares-sink-on-q1-revenue-miss-1b-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+巨亏13亿美元
+ 
+MARA在第一季度的收入报告中大幅失望，导致股价暴跌。报告显示，MARA的净亏损达13亿美元，较去年同期扩大了近三倍。这种情况凸显了加密货币行业的波动性和风险。
+ 
+这将对整个加密货币投资市场产生影响，投资者和创业者需要谨慎评估投资风险。尤其是那些投资于MARA或类似公司的投资者，将面临较大的损失风险。
+ 
+投资者应及时调整投资策略，考虑对加密货币行业的多元化投资。
+ 
+#加密货币市场 #投资风险 #MARA
+
+
+【英文推文】
+$1.3B Loss Shakes Market
+MARA's Q1 revenue miss leads to a stock price plunge, with a net loss of $1.3B, nearly triple that of last year. This highlights the volatility and risk in the crypto industry, with a potential impact on investor confidence.
+Investors and entrepreneurs should reassess their investment strategies, considering diversification in the crypto market to mitigate risk.
+#CryptoMarket #InvestmentRisk #MARA
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity
+链接：https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity
+----------------------------------------
+【中文推文】
+AI进入网络安全
+ 
+OpenAI的Daybreak计划利用AI帮助公司识别软件漏洞，并加快网络防御速度。这意味着AI技术将更加深入地参与网络安全领域，据估计，全球网络安全市场规模到2025年将达到3000亿美元。Daybreak计划的推出，可能会让更多企业开始关注AI在网络安全方面的应用。
+
+这一举动可能会影响网络安全行业的发展，对于网络安全企业和投资者来说，这是一个值得关注的信号。
+
+企业可以开始探索与AI技术的结合，提高网络安全水平。
+
+#AI #网络安全 #Daybreak
+
+【英文推文】
+AI in Cybersecurity
+
+OpenAI's Daybreak uses AI to identify software vulnerabilities, speeding up cyber defense. The global cybersecurity market is expected to reach $300 billion by 2025. 
+
+This move may impact the development of the cybersecurity industry, and companies can start exploring AI integration to enhance security. 
+
+#AI #Cybersecurity #Daybreak
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build
+链接：https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china
+----------------------------------------
+【中文推文】
+百度新AI登顶！
+
+百度的ERNIE 5.1已经超越了顶级AI模型，同时只花费了原先的6%的成本，这代表着AI研发的成本降低了94%。这一“参数效率”飞跃对于AI领域来说具有里程碑意义，尤其是其在中文领域能力更强。
+
+这一成就将对AI研发公司和投资者产生重大影响，因为成本大幅降低后，更多的企业将能够投入AI研发，从而加速AI技术的进步。
+
+现在就关注并投入AI领域的创新发展吧！
+
+#AI创新 #人工智能 #科技投资
+
+【英文推文】
+AI Cost Down 94%!
+
+Baidu's ERNIE 5.1 surpasses top AI models with just 6% of the cost, marking a "parameter efficiency" leap. This reduces AI development costs by 94%, a milestone for AI research, especially in Chinese capabilities.
+
+This achievement will impact AI developers and investors as lower costs enable more companies to invest in AI, accelerating its progress. Now is the time to focus on AI innovation!
+
+#AIinnovation #ArtificialIntelligence #TechInvestment
+==================================================
+
