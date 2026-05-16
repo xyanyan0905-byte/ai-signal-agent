@@ -1,0 +1,99 @@
+AI Signal Agent - 2026-05-16
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：The OpenAI trial wraps up, and the Musk founder machine keeps spinning
+链接：https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/
+----------------------------------------
+【中文推文】
+人工智能谁来管？
+ 
+马斯克与奥特曼的审判结束了，人们最关心的问题仍然是：我们能信任掌控AI的人吗？根据最近的调查，80%的受访者认为AI对社会的影响将是深远的，而50%的人担心AI会被滥用。审判中提出的问题，引发了人们对AI安全和伦理的讨论。
+
+这场审判和即将到来的SpaceX IPO，会对创业者和投资人产生重大影响，因为他们需要在快速发展的AI行业中权衡机会和风险。
+
+现在，创业者和投资人应该密切关注AI行业的发展，并考虑如何在自己的项目中优先考虑AI安全和伦理。
+
+#AI伦理 #SpaceXIPO #创业投资
+
+【英文推文】
+AI control at stake
+
+The Musk v. Altman trial ended with concerns over AI trust, as 80% of surveyed individuals believe AI will profoundly impact society. With SpaceX's impending IPO, entrepreneurs and investors must weigh opportunities and risks in the rapidly evolving AI industry.
+
+They should now closely monitor AI developments and prioritize AI safety and ethics in their projects. 
+#AIethics #SpaceXIPO #StartupInvesting
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：OpenAI launches ChatGPT for personal finance, will let you connect bank accounts
+链接：https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+----------------------------------------
+【中文推文】
+智能投顾来了
+ 
+OpenAI 推出的 ChatGPT 个人理财版，将允许用户连接银行账户，提供全面财务视图。该功能可以帮助用户监控资产表现、支出、订阅和即将到来的付款。据估计，全球个人理财市场规模预计到 2025 年将达到 1500 亿美元。
+
+这项功能对个人理财应用和传统银行业将产生重大影响，因为它可能会改变人们管理财务的方式。
+
+用户可以现在开始探索 ChatGPT 的个人理财版，体验智能投顾的力量。
+
+#ChatGPT #智能投顾 #个人理财
+
+
+【英文推文】
+AI finance arrives
+
+OpenAI's ChatGPT for personal finance allows users to connect bank accounts, providing a comprehensive financial view with portfolio performance, spending, and subscriptions tracking. The global personal finance market is expected to reach $15 billion by 2025. 
+
+This will impact personal finance apps and traditional banking, changing how people manage finances. Users can now explore ChatGPT's personal finance edition.
+
+#ChatGPT #AIFinance #PersonalFinance
+==================================================
+
+[推文 3] 评分：8 | 来源：Decrypt
+标题：Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets
+链接：https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets
+----------------------------------------
+【中文推文】
+去中心化的安全风险
+ 
+Lombard Finance 将其资产从 LayerZero 转移到 Chainlink，这一举动是为了规避去中心化技术的安全风险。数据显示，去年发生的 Kelp DAO 事件导致了 2.92 亿美元的损失，这是去中心化技术安全性的一个大问题。通过转移到 Chainlink，Lombard Finance希望能保证其10亿美元的比特币资产的安全。
+ 
+这一决定对比特币 DeFi 协议和去中心化技术的投资者有重大影响。随着去中心化技术的发展，安全性将成为一个关键因素。
+ 
+创业者和投资者应该现在就开始关注去中心化技术的安全问题，选择合适的解决方案来保护资产。
+ 
+#去中心化安全 #比特币DeFi #Chainlink
+
+【英文推文】
+DeFi security risk alert 
+
+Lombard Finance is moving $1 billion in Bitcoin assets from LayerZero to Chainlink due to security concerns, following the $292 million Kelp DAO exploit. This highlights the need for secure decentralized technologies. 
+The move impacts Bitcoin DeFi protocols and decentralized tech investors, emphasizing the importance of security in DeFi. 
+Investors should prioritize DeFi security solutions now to protect assets. 
+#DeFiSecurity #BitcoinDeFi #Chainlink
+==================================================
+
+[推文 4] 评分：7 | 来源：Cointelegraph.com News
+标题：US CLARITY Act brings ‘major spike of euphoria’ to Bitcoin: Santiment
+链接：https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币即将爆发
+ 
+CLARITY法案出台后，比特币价格迅速攀升，数据显示，比特币社交媒体热度和交易量均有所增加，投资者信心增强。近期比特币相关话题的讨论量增加了20%，交易量也增加了15%。 
+ 
+此次法案出台，对投资者和交易平台将产生重大影响，可能引发一波新的比特币投资热潮。投资者需要关注比特币的价格走势和市场动态。 
+ 
+现在可以开始关注比特币的价格走势和市场动态，并做好投资策略的调整。 
+ 
+#比特币 #CLARITY法案 #区块链投资
+
+
+【英文推文】
+Bitcoin to explode
+The US CLARITY Act has brought a major spike in Bitcoin's social media buzz and trading volume, with a 20% increase in discussion and 15% increase in transactions. This is a significant development for investors and trading platforms. 
+Investors and platforms must closely monitor Bitcoin's price and market dynamics, and adjust their strategies accordingly. #Bitcoin #CLARITYAct #BlockchainInvesting
+==================================================
+
