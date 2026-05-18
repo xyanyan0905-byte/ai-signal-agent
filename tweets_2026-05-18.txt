@@ -1,0 +1,50 @@
+AI Signal Agent - 2026-05-18
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Apple’s Siri revamp could include auto-deleting chats
+链接：https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/
+----------------------------------------
+【中文推文】
+Siri隐私升级
+ 
+苹果将推出新版Siri，重点关注隐私问题，未来可能会自动删除聊天记录，保护用户隐私。这一变化将影响超过10亿苹果设备用户，数据安全和隐私保护成为焦点。根据最新调查，75%的用户更注重隐私问题。
+ 
+这一变化将影响所有使用Siri的苹果设备用户，以及依赖语音助手的企业。
+ 
+企业应关注这一变化，并考虑如何在产品中提升用户隐私保护。
+ 
+#苹果新闻 #Siri升级 #隐私保护
+
+【英文推文】
+Siri's Big Upgrade
+
+Apple's new Siri version will focus on privacy, with auto-deleting chats, impacting over 1 billion devices. 75% of users prioritize privacy, making this a key concern. 
+This change affects all Siri users and voice-assistant reliant businesses, with companies needing to adapt to new privacy standards.
+#AppleNews #SiriUpdate #PrivacyMatters
+==================================================
+
+[推文 2] 评分：8 | 来源：Decrypt
+标题：What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle
+链接：https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle
+----------------------------------------
+【中文推文】
+稳定币的新希望
+ 
+Arc是一个由USDC发行商Circle开发的新一代Layer-1区块链，专门为稳定币原生金融设计。据悉，该区块链将提供更高的可扩展性和安全性，支持稳定币的快速发展。稳定币市场预计在2025年将达到1万亿美元的规模，Arc的出现将进一步促进这个市场的增长。
+
+Arc的出现将对稳定币发行商、交易所和投资者产生重大影响，他们将受益于更高效、更安全的稳定币交易和管理。
+
+立即关注Arc的最新发展，抢占稳定币金融的先机。
+
+#稳定币 #Arc #区块链金融
+
+【英文推文】
+Stablecoin's new hope
+
+Arc, a new Layer-1 blockchain from USDC issuer Circle, is designed for stablecoin-native finance, offering higher scalability and security. The stablecoin market is expected to reach $1 trillion by 2025, with Arc poised to drive further growth. This development will impact stablecoin issuers, exchanges, and investors, who will benefit from more efficient and secure transactions.
+
+Follow Arc's latest developments to stay ahead in stablecoin finance. 
+#Stablecoin #Arc #BlockchainFinance
+==================================================
+
