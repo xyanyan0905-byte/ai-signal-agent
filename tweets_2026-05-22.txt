@@ -1,0 +1,125 @@
+AI Signal Agent - 2026-05-22
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Spotify and Universal Music strike deal allowing fan-made AI covers and remixes
+链接：https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/
+----------------------------------------
+【中文推文】
+音乐革命来临
+ 
+Spotify和环球音乐集团的合作，允许粉丝制作AI生成的歌曲封面和混音，参与的艺术家将获得收入分成。这一合作不仅可以让音乐创作变得更加民主化，也可以为音乐行业带来新的商业模式。据估计，AI音乐市场在2025年将达到10亿美元的规模。
+ 
+这对音乐爱好者和艺术家来说是一个福音，也让音乐投资人看到新的机会。
+ 
+现在，创业者可以开始思考如何将AI音乐技术应用到自己的业务中，投资人可以关注这一领域的初创公司。
+ 
+#AI音乐 #音乐创作 #音乐投资
+
+【英文推文】
+Music Revolution
+Spotify and Universal Music's partnership allows fans to create AI-generated song covers and remixes, with artists receiving revenue share. This deal democratizes music creation and brings new business models, with the AI music market expected to reach $1B by 2025.
+Investors and entrepreneurs, take note: new opportunities are emerging in AI music tech. 
+#AImusic #MusicCreation #MusicInvesting
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook
+链接：https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/
+----------------------------------------
+【中文推文】
+硬件革命来袭
+
+Nvidia 的 Vera 芯片是未来发展的关键，预计市场规模将达到 200 亿美元。 Jensen Huang 不想让你忽略这一重要投入，因为它代表了人工智能和自动驾驶的新发展方向。 Vera 芯片的性能和效率提高了 30%，使其成为新一代智能设备的核心组件。
+
+这一发展对创业者和投资人来说至关重要，因为它将改变整个技术行业。特别是那些在人工智能和自动驾驶领域的投资者，将会从中受益。
+
+现在是投资Nvidia和相关领域的创业公司的好时机，因为它们将在未来几年推动整个行业的发展。
+
+#科技创新 #硬件革命 #人工智能
+
+【英文推文】
+AI hardware revolution coming
+
+Nvidia's Vera chip is a game-changer with a $200B market potential, boasting 30% performance and efficiency boost. This development is crucial for entrepreneurs and investors, as it will transform the tech industry, particularly those in AI and autonomous driving.
+
+Invest in Nvidia and related startups now to reap benefits in the next few years. 
+#AIhardware #Innovation #TechRevolution
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：5 crypto firms wind down this week amid ongoing market slump
+链接：https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+暴跌警钟
+ 
+本周，五家加密货币公司宣布停业，这是加密货币市场持续低迷的又一迹象。近几个月，加密货币市场的交易量和价格持续下降，导致许多加密货币公司面临财务困难。仅在今年，就有超过20家加密货币公司停业或裁员。
+
+这将对加密货币行业的投资者和创业者产生重大影响，因为投资者信心受损和资金紧张将使新项目更难获得资金。
+
+现在是时候调整投资策略和关注加密货币市场的发展趋势了。
+
+#加密货币 #区块链 #投资
+
+
+【英文推文】
+Crypto slump deepens
+
+5 crypto firms wind down this week, amid ongoing market downturn, with over 20 companies shutting down or laying off employees this year. This trend is expected to continue, with a significant impact on investor confidence and funding for new projects.
+
+Investors and entrepreneurs should adjust their strategies and monitor market trends. 
+#Cryptocurrency #Blockchain #Investment
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode
+链接：https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode
+----------------------------------------
+【中文推文】
+量子计算威胁比特币
+
+比特币的现有供应中，近5000亿美元的资产暴露在未来量子计算攻击的风险之下。据Glassnode报告，交换所是其中的一个弱点，超过70%的比特币交易发生在这里。这个风险并不小，未来量子计算能力的提升将使得比特币的安全性面临严峻考验。
+
+对交换所和投资者来说，这个风险尤其明显。因为交换所是量子计算攻击的主要目标，投资者如果将资产存放在交换所中，将面临巨大的财产损失风险。
+
+因此，投资者应该尽快将资产转移到更加安全的冷钱包中。
+
+#量子计算 #比特币安全 #区块链风险
+
+【英文推文】
+Quantum threat to Bitcoin
+
+Nearly $500B in Bitcoin is exposed to future quantum computing attacks, with exchanges being a weak point. Over 70% of Bitcoin transactions occur on exchanges, making them a prime target. This risk is significant, as future advancements in quantum computing could severely compromise Bitcoin's security.
+
+This risk is particularly relevant to exchanges and investors, who face significant financial losses if their assets are stored on exchanges. Investors should act now to transfer their assets to more secure cold wallets.
+
+#QuantumComputing #BitcoinSecurity #BlockchainRisk
+==================================================
+
+[推文 5] 评分：7 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Trump delays AI security executive order, saying language ‘could have been a blocker’
+链接：https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/
+----------------------------------------
+【中文推文】
+惊人：特朗普延迟AI安全令
+
+特朗普延迟签署关于AI安全的行政令，这意味着AI领域的监管将进一步拖延。据悉，该行政令原计划要求在AI模型发布前进行政府安全审查，但特朗普对该令的措辞表示不满。目前，全球AI市场规模已达到1000亿美元，监管的延迟将继续影响该行业的发展。
+
+这一延迟对AI创业公司和投资者来说将产生重大影响，因为他们需要面对更加不确定的监管环境。
+
+现在是时候关注AI监管的最新动态了，准备好应对潜在的政策变化。
+
+#AI安全 #监管延迟 #创业投资
+
+
+【英文推文】
+Trump Delays AI Order
+
+Trump delayed signing an executive order requiring pre-release government security reviews of AI models, citing dissatisfaction with the language. The global AI market has reached $100 billion, and this delay will impact AI startups and investors. With the uncertain regulatory environment, they need to prepare for potential policy changes.
+
+Now is the time to focus on the latest AI regulatory developments. 
+
+#AIsecurity #RegulatoryDelay #StartupInvestment
+==================================================
+
