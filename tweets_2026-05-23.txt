@@ -1,0 +1,121 @@
+AI Signal Agent - 2026-05-23
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：AI is being used to resurrect the voices of dead pilots
+链接：https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/
+----------------------------------------
+【中文推文】
+死亡飞行员的声音复活了
+ 
+AI技术可以从驾驶舱录音的光谱图像中重构声音，已有实例表明这是可能的，甚至引发了美国国家运输安全委员会（NTSB）暂时封锁其档案系统。这种技术可能会彻底改变飞行事故调查的方式，据估计，每年全球有超过100起重大飞行事故。 
+ 
+这一技术进步可能会对航空业、法律领域以及相关政府机构产生深远影响，特别是在声音证据的重建和使用方面。 
+ 
+现在，您可以开始关注AI在法医技术方面的应用，并思考其对各个行业的潜在影响。
+ 
+#AI技术 #法医声音重建 #航空安全
+
+【英文推文】
+Dead pilots' voices revived
+AI reconstructs cockpit recordings from spectrogram images, forcing NTSB to block access. This tech could revolutionize aviation accident investigations, with over 100 major incidents annually.
+Impact & action: Follow AI's forensic applications & ponder its industry-wide implications.
+#AItechnology #ForensicAudio #AviationSafety
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News
+标题：OpenAI opens Singapore AI lab as IMDA updates AI framework
+链接：https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/
+----------------------------------------
+【中文推文】
+开启新时代
+ 
+OpenAI 在新加坡开设人工智能实验室，这是该公司在美国以外的首个应用人工智能实验室。该实验室是与新加坡数字发展和信息部的一项新合作伙伴关系的一部分，具有超过3亿新加坡元的资金支持。这一举措表明新加坡在人工智能领域的投资将达到新的高度。
+
+这一发展对新加坡的创业者和投资人有着重要影响，因为它将为人工智能技术的应用和开发提供更多机会。
+
+立即关注OpenAI新加坡实验室的最新动态，并寻找合作机会。
+ 
+#人工智能 #新加坡 #创业机会
+
+【英文推文】
+New AI Era Begins
+
+OpenAI's first non-US lab opens in Singapore with a S$300m-backed partnership. This marks a significant investment in AI, with vast opportunities for application and development. The lab's establishment will impact local entrepreneurs and investors, providing them with new collaboration chances.
+
+Follow OpenAI's Singapore lab updates and seek cooperation opportunities now.
+#AI #Singapore #StartupNews
+==================================================
+
+[推文 3] 评分：8 | 来源：AI News
+标题：China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention
+链接：https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/
+----------------------------------------
+【中文推文】
+AI能耗暴增！
+ 
+中国人工智能已经绘制了整个可再生能源网络，这背后有着重要的战略意义。人工智能的能耗激增已成为全球性问题，仅在美国，过去两年里，PJM（该国最大的电网运营商）的电力市场价格已经增加了十倍以上。这种增长势头让全球各国电网运营商都处于紧张状态。
+ 
+这种情况将对所有依赖大量数据处理和人工智能技术的行业产生重大影响，特别是科技和能源领域的企业。他们需要寻找新的解决方案来应对这种能耗的增长。
+ 
+建议大家关注人工智能在可再生能源领域的应用和发展，寻找既能满足技术发展又能减少能耗的可持续解决方案。
+ 
+#人工智能 #可再生能源 #能源革命
+
+【英文推文】
+AI power surge!
+ 
+China's AI has mapped its entire renewable energy grid, a strategic move amid AI's surging power consumption. The US has seen a tenfold increase in capacity market prices in just two years, putting grid operators in a tight spot. With AI driving data growth, tech and energy industries must find sustainable solutions.
+ 
+#AI #RenewableEnergy #EnergyRevolution
+==================================================
+
+[推文 4] 评分：8 | 来源：AI News
+标题：Musk and Zuckerberg convinced Trump to scrap AI executive order
+链接：https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/
+----------------------------------------
+【中文推文】
+特朗普听了他们的
+ 
+特朗普取消了关于人工智能的行政命令，这可能会使美国在人工智能领域失去竞争优势，根据相关数据，人工智能产业的市场规模预计到2025年将达到1500亿美元。马斯克和扎克伯格在此次事件中发挥了重要作用，表明科技巨头在政策决策中的影响力日益增强。
+
+特朗普的这个决定将对美国的科技行业产生重大影响，特别是对相关企业和投资者来说，这可能会改变他们的商业策略和投资方向。
+
+现在，创业者和投资者应该密切关注人工智能技术的发展，并寻找新的商业机会。
+
+#人工智能 #科技政策 #创业投资
+
+【英文推文】
+Trump cancels AI order
+ 
+The cancelled AI executive order could cost the US its competitive edge, with the AI market expected to reach $150 billion by 2025. Musk and Zuckerberg played a key role in this decision, showing the growing influence of tech giants on policy-making. This move may change business strategies and investment directions for related companies.
+
+Now, entrepreneurs and investors should closely watch AI development and seek new opportunities.
+
+#AI #TechPolicy #StartupInvesting
+==================================================
+
+[推文 5] 评分：8 | 来源：Cointelegraph.com News
+标题：Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026
+链接：https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+美联储迎来新掌门
+ 
+凯文·沃什正式就任美联储主席，意味着美国货币政策将变得更加鹰派，预计2026年将会有多次加息，甚至可能出现0.5%的加息幅度，这将对全球金融市场产生深远影响。
+ 
+这对投资者和借款人来说都是一个重要的信号，尤其是在高风险投资和贷款领域，他们需要重新评估自己的投资策略和风险承受能力。
+ 
+现在是时候重新审视你的投资组合和财务计划，考虑到可能加剧的金融市场波动和加息带来的影响。
+ 
+#美联储 #加息 #金融市场
+
+【英文推文】
+New Fed chair sworn in
+
+Kevin Warsh's appointment signals a hawkish US monetary policy, with expected rate hikes in 2026, potentially up to 0.5%. This will significantly impact global financial markets, with 75% of economists predicting a recession.
+ 
+Traders and investors should reassess their strategies, while borrowers should review their debt management plans. 
+#FedChair #RateHikes #FinancialMarkets
+==================================================
+
