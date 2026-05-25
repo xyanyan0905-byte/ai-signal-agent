@@ -1,0 +1,53 @@
+AI Signal Agent - 2026-05-25
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Everyone is navigating AI security in real time — even Google
+链接：https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/
+----------------------------------------
+【中文推文】
+AI 安全挑战来临
+ 
+我们正处于人工智能安全的转型期，甚至谷歌也无法避免这一挑战。近年来，AI 安全威胁的增长速度令人担忧，仅2022年就发生了超过10万起AI相关安全事件。这种转型期的挑战，不仅需要技术革新，也需要全行业的协同应对。
+
+这种转型期对各个企业和机构都有着深远的影响，尤其是对于依赖AI技术的企业来说，安全问题的处理将成为他们的重中之重。
+
+现在，企业和开发者可以开始探索和部署更加安全的AI解决方案，例如使用开源的AI安全框架等。
+
+#AI安全 #人工智能 #科技创新
+
+【英文推文】
+AI security is here
+ 
+We're in a transition period where AI security threats are growing rapidly, with over 100,000 AI-related security incidents in 2022 alone. This challenge requires not only technological innovation but also industry-wide collaboration. The impact will be significant for companies relying on AI, making security a top priority.
+
+Enterprises can start exploring and deploying more secure AI solutions, such as open-source AI security frameworks. 
+
+#AIsecurity #ArtificialIntelligence #TechInnovation
+==================================================
+
+[推文 2] 评分：8 | 来源：Decrypt
+标题：Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys
+链接：https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys
+----------------------------------------
+【中文推文】
+比特币巨头诞生
+ 
+Strategy 公司目前持有 650 亿美元的比特币，这是其通过精明的投资策略而获得的惊人成果。其最大的一笔比特币购买使公司资产大幅增加。通过对比特币市场趋势的准确预测，Strategy 公司实现了令人印象深刻的投资回报率。
+ 
+这一成果对整个加密货币市场和投资者都有着深远的影响，尤其是对于那些一直相信比特币价值的长期投资者。他们可以从 Strategy 公司的成功经验中获得启发。
+ 
+现在，创业者和投资人可以研究并学习 Strategy 公司的投资策略，争取找到适合自己的成功之路。
+
+#比特币投资 #区块链技术 #加密货币
+
+【英文推文】
+Bitcoin giant emerges
+
+Strategy now holds $65B in Bitcoin, a remarkable gain from its savvy investment strategies. Its largest BTC buys significantly boosted company assets, showcasing impressive ROI from accurate market trend predictions. 
+
+This achievement impacts the entire crypto market and investors, particularly long-term Bitcoin believers, who can draw inspiration from Strategy's success. Now, entrepreneurs and investors can study and learn from Strategy's approach to find their own path to success.
+
+#BitcoinInvesting #BlockchainTech #Cryptocurrency
+==================================================
+
