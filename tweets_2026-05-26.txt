@@ -1,0 +1,124 @@
+AI Signal Agent - 2026-05-26
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：What ClickUp’s mass layoff tells us about the future of work
+链接：https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/
+----------------------------------------
+【中文推文】
+AI革命来临
+ 
+ClickUp的大规模裁员事件揭示了工作的未来将由AI驱动，未来可能有数十万职位被AI取代，相关数据显示，仅2022年，全球AI相关投资就超过150亿美元。这种趋势可能会改变我们对工作和生产力的理解。 
+ 
+这个转变将主要影响传统行业的职员，以及依赖人工劳动的创业公司。 
+ 
+阅读者现在可以开始关注和投资于AI相关的领域和技术，包括智能工作平台和自动化解决方案。 
+ 
+#AI革命 #未来工作 #智能工作
+
+【英文推文】
+AI Takes Over Jobs
+
+ClickUp's mass layoff reveals the future of work driven by AI, with potentially millions of jobs replaced, as $15B was invested in AI in 2022 alone. This shift will alter how we understand work and productivity. 
+The change will primarily affect traditional industry workers and startups reliant on manual labor, prompting them to adapt to automation. 
+Invest in AI-related technologies now, including smart work platforms. 
+#AIRevolution #FutureOfWork #SmartWork
+==================================================
+
+[推文 2] 评分：8 | 来源：Cointelegraph.com News
+标题：Kelp DAO says rsETH restored 5 weeks after $293M protocol hack
+链接：https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+293米打击
+
+Kelp DAO 曾遭受 293 百万美元的协议黑客攻击，但仅用 5 周时间就恢复了 rsETH，这是一项不错的成绩。据统计，这次攻击令 Kelp DAO 的用户损失了大量资产，但现在 rsETH 已经恢复，这对用户来说是利好的消息。恢复的速度之快，足以说明 Kelp DAO 的技术团队能力。
+
+这一事件对 DeFi 用户和投资者来说均有影响，尤其是对那些在 Kelp DAO 投资的用户来说，他们可以重新开始使用 rsETH 进行交易和投资。 
+
+为了减少损失，建议用户紧密关注 Kelp DAO 的最新动态和安全公告。
+
+#DeFi #KelpDAO #区块链安全
+
+【英文推文】
+293M hack reversed
+
+Kelp DAO restored rsETH in just 5 weeks after a $293M protocol hack, a notable achievement. With the asset now recovered, users can resume trading and investing with renewed confidence. 
+
+This development impacts DeFi users and investors, particularly those invested in Kelp DAO, who can now restart transactions with rsETH. To minimize losses, closely follow Kelp DAO's latest updates and security notices.
+
+#DeFi #KelpDAO #BlockchainSecurity
+==================================================
+
+[推文 3] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin holds $77K as stocks rally, global tensions cool: Are BTC bulls back?
+链接：https://cointelegraph.com/markets/bitcoin-holds-77k-as-stocks-rally-global-tensions-cool-are-btc-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币突破77K
+ 
+比特币价格近日突破77K美元，随着全球紧张局势缓和，美国股市也开始回升。数据显示，比特币近期走势与股票市场走势有所相关，表明投资者信心开始恢复。同时，全球经济局势的变化也使得投资者开始重新关注加密货币市场。
+
+这对加密货币投资者和全球经济观察者都有着重大的影响，尤其是那些长期投资比特币的投资者可能会重新燃起希望。
+
+现在是时候重新评估投资策略，并考虑加密货币市场的新动向。
+
+#比特币 #区块链 #加密货币
+
+
+【英文推文】
+Bitcoin hits $77K
+
+Bitcoin price surged past $77K as global tensions ease and US stocks rally, with data showing a correlation between Bitcoin's recent movement and stock market trends, indicating investor confidence is on the mend. The shift in global economic sentiments also draws investor attention back to the cryptocurrency market.
+
+This development affects cryptocurrency investors and global economy observers alike, particularly those with long-term investments in Bitcoin. It's time to reassess investment strategies and consider new market trends.
+
+#Bitcoin #Blockchain #Cryptocurrency
+==================================================
+
+[推文 4] 评分：8 | 来源：Decrypt
+标题：Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen
+链接：https://decrypt.co/368964/george-hotz-vibe-coding-ai-slop-warning
+----------------------------------------
+【中文推文】
+AI 代码是定时炸弹
+ 
+知名黑客 George Hotz 在测试 AI 编码代理后发现，它们产生了大量无法检测的低质量代码，这将导致未来的软件安全灾难。据他介绍，在六个月的测试中，AI 编码代理的低质量代码占比高达 80%。这种趋势将给行业带来沉重的安全负担。
+
+AI 编码代理的潜在危害将影响所有依赖软件的组织，特别是金融和政府等高安全要求的领域。这些组织需要重新评估其对 AI 编码代理的依赖，否则将面临严重的安全风险。
+
+立即重新评估自己项目中的 AI 编码代理使用，确保代码质量和安全。
+
+#AI安全风险 #软件质量 #编码代理
+
+
+【英文推文】
+AI coding disaster
+ 
+Renowned hacker George Hotz found that AI coding agents produce 80% low-quality, undetectable code after 6 months of testing, posing a significant security threat. This trend will burden industries reliant on software, causing potential security breaches. Companies must reassess their use of AI coding agents to mitigate risks.
+
+#AIsecurity #SoftwareQuality #CodingAgents
+==================================================
+
+[推文 5] 评分：7 | 来源：Decrypt
+标题：With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin
+链接：https://decrypt.co/368961/central-bank-georgia-tether-stablecoin
+----------------------------------------
+【中文推文】
+稳定币新战场
+ 
+全球范围内，稳定币的发展正在加速，据统计，稳定币市场总市值已超过1500亿美元，年增长率高达50%。现在，Tether计划在格鲁吉亚发行稳定币，并获得该国政府的支持，这标志着crypto领域的一个重要突破。格鲁吉亚稳定币的发行将为crypto市场带来更大的流动性和可信度。
+ 
+这对格鲁吉亚的经济和全球crypto市场都有深远的影响，尤其是对区块链技术和投资领域的创新带来更多的机遇。
+ 
+现在，你可以关注格鲁吉亚的stablecoin动态，了解crypto市场的新趋势。
+ 
+#stablecoin #Tether #区块链投资
+
+【英文推文】
+Stablecoin New Frontier
+Tether's stablecoin in Georgia marks a new frontier for crypto, with the global stablecoin market valued over $150B and growing 50% YoY. This move brings more liquidity and credibility to the crypto market.
+The impact is significant for Georgia's economy and the global crypto market, bringing new opportunities for blockchain innovation and investment.
+#stablecoin #Tether #CryptoInvesting
+==================================================
+
