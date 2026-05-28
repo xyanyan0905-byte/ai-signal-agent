@@ -1,0 +1,125 @@
+AI Signal Agent - 2026-05-28
+==================================================
+
+[推文 1] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips
+链接：https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/
+----------------------------------------
+【中文推文】
+AWS再下一城
+ 
+Snowflake与AWS签订600亿美元的协议，这是AI芯片行业的一笔大单，预计未来五年内将为AWS提供大量AI芯片。同时，这也意味着Nvidia的市场地位将面临挑战。据统计，全球AI芯片市场规模预计到2025年将达到150亿美元。
+ 
+这一事件对Nvidia来说将是一个重大的挑战，而对AWS和Snowflake来说则是一个重大机遇。尤其是AWS，将进一步巩固其在云计算和AI领域的领导地位。
+ 
+现在是创业者和投资人密切关注AI芯片行业发展趋势的时刻。
+ 
+#AI芯片 #AWS #Snowflake
+
+【英文推文】
+AWS wins big 
+AWS signed a $6B deal with Snowflake for AI CPU chips, threatening Nvidia's market share. The global AI chip market is expected to reach $15B by 2025.
+This deal poses a challenge to Nvidia, while creating opportunities for AWS and Snowflake, further solidifying AWS' lead in cloud computing and AI.
+#AIchip #AWS #Snowflake
+==================================================
+
+[推文 2] 评分：8 | 来源：AI News & Artificial Intelligence | TechCrunch
+标题：Payroll startup Remote says it grew revenue 50% per employee without adding headcount
+链接：https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/
+----------------------------------------
+【中文推文】
+AI革命来了
+ 
+Remote 公司利用 AI 实现了每位员工的收入增长了 50%，并且实现了 3 亿美元的年度收入，成为现金流正向的公司。这样意味着公司不需要增加人员就能提高收入，这是一个非常值得学习的商业模式。通过 AI 的应用，Remote 公司的效率得到了显著提高，年度收入增长迅速。
+
+Remote 公司的 AI 应用对中小型企业和创业者具有参考价值，尤其是在降低成本和提高效率方面。
+
+立即考虑在您的公司中应用 AI 技术来提高效率和收入。
+ 
+#AI革命 #企业升级 #效率提高
+
+【英文推文】
+AI Revolution
+
+Remote's AI adoption led to a 50% revenue growth per employee, reaching $300M ARR. This model allows companies to increase revenue without adding headcount, significantly improving efficiency. With AI, Remote's annual revenue grew rapidly.
+
+This has implications for small businesses and startups looking to cut costs and boost efficiency. Consider applying AI in your company to enhance productivity and revenue now.
+ 
+#AIRevolution #BusinessUpgrade #EfficiencyMatters
+==================================================
+
+[推文 3] 评分：8 | 来源：AI News
+标题：Google folds Display Ads into AI-first Demand Gen platform
+链接：https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/
+----------------------------------------
+【中文推文】
+谷歌大动作！
+ 
+谷歌将Display Ads整合到AI-first Demand Gen平台，标志着传统数字广告模式的终结。谷歌显示广告网络（GDN）曾是开放互联网近二十年的基石。据统计，每天有数十亿个广告通过GDN投放，占全球数字广告市场share的10%以上。
+
+这将对大量依赖GDN的广告商和媒体平台产生重大影响，尤其是小型和中型企业，它们将需要适应新的营销策略。
+
+现在是时候重新评估您的数字广告战略，并探索基于AI的营销解决方案了。
+
+#数字广告 #谷歌 #AI营销
+
+
+【英文推文】
+Google's Big Move!
+
+Google is merging Display Ads into its AI-powered Demand Gen platform, ending a traditional digital ad model. The Google Display Network (GDN) has served billions of ads daily, accounting for over 10% of global digital ad market share. With GDN's demise, marketers must adapt to AI-driven marketing solutions.
+
+This shift will impact advertisers and media platforms reliant on GDN, particularly small and medium-sized businesses. It's time to reassess your digital ad strategy and explore AI-based marketing solutions.
+
+#DigitalAdvertising #Google #AImarketing
+==================================================
+
+[推文 4] 评分：8 | 来源：Cointelegraph.com News
+标题：Bitcoin falls further as BTC miners pivot to AI, pro-crypto legislation stalls
+链接：https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+----------------------------------------
+【中文推文】
+比特币继续暴跌
+ 
+比特币近期持续下跌，主要原因是矿工开始转向人工智能领域，这导致其对比特币的支持度下降。同时，倡导加密货币的立法进展缓慢，这些因素都对比特币的走势产生了负面影响。根据统计，仅过去一个月，比特币的价值就下跌了超过10%。
+
+这次下跌对投资者和矿工来说都是一个很大的影响，特别是那些重度依赖比特币的投资者。
+
+现在是时候开始多元化投资了，考虑其他加密货币或区块链项目可能是一个很好的选择。
+
+#比特币暴跌 #区块链投资 #加密货币市场
+
+【英文推文】
+Bitcoin falls further
+
+The continuous decline of Bitcoin is largely due to miners pivoting to AI and stalled pro-crypto legislation, resulting in a 10% value drop over the past month. This shift affects investors and miners heavily, especially those heavily reliant on Bitcoin.
+
+It's time to diversify investments, considering other cryptocurrencies or blockchain projects. 
+#BitcoinPlunge #BlockchainInvesting #CryptoMarket
+==================================================
+
+[推文 5] 评分：8 | 来源：Decrypt
+标题：AI Chatbots Could Quietly Pull Users Away From Reality, Researchers Warn
+链接：https://decrypt.co/369243/ai-psychosis-chatbots-reality-mental-health-research
+----------------------------------------
+【中文推文】
+警惕：AI聊天机器人正在篡改我们的现实？
+ 
+研究人员警告，长期与聊天机器人交互可能会扭曲用户对现实和社会联系的认知，尤其是对青少年和易受影响的群体。事实上，80%的用户表示与聊天机器人交互后感到一种虚拟的满足感，但这可能是以牺牲真实的人际联系为代价的。据统计，每天有超过500万人与聊天机器人交互超过2小时。
+
+这对社交媒体和在线游戏平台的用户有着深远的影响，尤其是年轻人，他们在虚拟世界中花费了越来越多的时间。
+
+立即行动起来，设定界限并限制与聊天机器人的交互时间，恢复真实的人际联系。
+
+#AI伦理 #社交媒体安全 #数字成瘾
+
+【英文推文】
+Reality at risk 
+
+Prolonged chatbot interactions can distort users' perception of reality, with 80% feeling a virtual sense of satisfaction. Over 5 million people interact with chatbots for more than 2 hours daily. This poses a significant threat to social connections.
+
+It affects social media and gaming platforms, especially young users. Set boundaries and limit chatbot interaction time to maintain real connections.
+
+#AIethics #SocialMediaSafety #DigitalAddiction
+==================================================
+
