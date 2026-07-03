@@ -5,10 +5,10 @@ from email.header import Header
 import os
 
 def send_error_email(step_name, error):
-    sender = os.environ.get("EMAIL_SENDER")
-    password = os.environ.get("EMAIL_PASSWORD")
-    receiver = os.environ.get("EMAIL_RECEIVER")
-    smtp_server = os.environ.get("SMTP_SERVER", "smtp.qq.com")
+    sender = os.environ.get("GMAIL_SENDER")
+    password = os.environ.get("GMAIL_PASSWORD")
+    receiver = os.environ.get("GMAIL_RECEIVER")
+    smtp_server = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
     smtp_port = int(os.environ.get("SMTP_PORT", 465))
 
     subject = f"[ai-signal-agent] {step_name} 失败"
